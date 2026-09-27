@@ -1,0 +1,1501 @@
+EmployeeID,Age,Department,Education,JobLevel,YearsAtCompany,DistanceFromHome_KM,OverTime,JobSatisfaction,WorkLifeBalance,PerformanceRating,TrainingHoursLastYear,NumPromotionsLast5Yrs,MonthlyIncome_INR,Attrition
+ABC00001,59,IT,PhD,3,14,39,No,3,3,4,42,1,154200.0,No
+ABC00002,49,IT,Masters,3,6,42,Yes,1,2,1,54,3,118300.0,Yes
+ABC00003,35,Sales,Bachelors,2,14,28,No,3,4,1,1,0,88100.0,No
+ABC00004,28,Sales,PhD,3,7,29,No,3,1,1,65,1,122300.0,No
+ABC00005,41,Sales,Bachelors,1,16,43,No,3,4,4,37,1,93800.0,No
+ABC00006,59,Sales,PhD,3,15,3,No,2,2,4,28,1,158600.0,No
+ABC00007,39,Operations,Masters,3,18,10,Yes,3,3,1,66,2,113700.0,No
+ABC00008,43,IT,Bachelors,4,8,42,No,4,2,1,70,1,129400.0,No
+ABC00009,31,Sales,Bachelors,4,10,14,Yes,4,3,3,35,2,124500.0,No
+ABC00010,31,Finance,Bachelors,2,10,12,No,1,3,4,28,1,101800.0,No
+ABC00011,44,Operations,Masters,1,4,42,No,4,3,3,36,2,85100.0,Yes
+ABC00012,56,Customer Support,Bachelors,5,1,30,No,3,4,1,44,3,129400.0,Yes
+ABC00013,44,Customer Support,Bachelors,2,19,32,Yes,3,2,1,15,2,93700.0,No
+ABC00014,23,Sales,Bachelors,4,2,32,No,4,4,1,30,2,101900.0,No
+ABC00015,42,Operations,Masters,1,13,42,No,1,2,1,33,3,91100.0,No
+ABC00016,22,Sales,Bachelors,3,1,32,Yes,1,1,2,49,1,84300.0,Yes
+ABC00017,44,IT,High School,4,0,26,No,4,1,2,64,3,118500.0,No
+ABC00018,50,IT,Bachelors,5,2,1,No,2,2,2,61,1,138900.0,No
+ABC00019,58,Operations,High School,2,6,42,No,2,2,3,42,2,73400.0,Yes
+ABC00020,22,IT,Bachelors,3,1,2,No,2,2,4,55,1,117400.0,No
+ABC00021,41,Operations,High School,2,18,17,No,2,2,1,14,2,92900.0,No
+ABC00022,53,Sales,High School,1,19,30,Yes,4,3,4,47,1,76100.0,No
+ABC00023,32,HR,PhD,3,1,39,No,1,4,2,48,2,120300.0,Yes
+ABC00024,42,Operations,Masters,3,18,7,Yes,3,3,1,43,2,124500.0,No
+ABC00025,45,IT,Bachelors,5,8,27,No,3,4,1,9,0,132700.0,No
+ABC00026,47,Operations,PhD,2,18,9,No,4,4,3,19,1,128100.0,No
+ABC00027,48,Customer Support,High School,1,4,22,No,3,4,4,69,1,59500.0,Yes
+ABC00028,36,Sales,Bachelors,1,15,34,No,2,3,3,7,0,84500.0,No
+ABC00029,35,Operations,Bachelors,2,14,1,Yes,1,2,2,44,2,92100.0,No
+ABC00030,23,HR,Bachelors,2,2,9,No,4,3,4,33,2,79900.0,No
+ABC00031,57,Operations,Bachelors,3,11,20,No,1,3,2,50,0,108200.0,No
+ABC00032,27,Customer Support,Bachelors,2,6,19,Yes,4,4,3,3,0,69100.0,Yes
+ABC00033,41,HR,Bachelors,5,13,36,No,4,1,3,38,3,148900.0,No
+ABC00034,29,HR,Masters,5,8,40,No,4,1,1,23,2,145700.0,No
+ABC00035,59,Finance,High School,3,11,4,No,4,3,4,54,3,131500.0,No
+ABC00036,38,Customer Support,Bachelors,4,2,9,Yes,1,4,4,25,1,119300.0,No
+ABC00037,24,Customer Support,Bachelors,3,3,41,No,3,3,1,24,3,101400.0,No
+ABC00038,45,HR,Bachelors,2,16,22,Yes,4,3,4,35,0,100000.0,No
+ABC00039,34,Finance,Bachelors,1,9,18,Yes,2,2,2,70,0,71900.0,Yes
+ABC00040,29,Sales,High School,2,8,12,Yes,4,4,2,73,0,82200.0,No
+ABC00041,46,Sales,Masters,2,10,42,Yes,1,1,3,57,0,102200.0,No
+ABC00042,22,IT,Bachelors,4,1,43,Yes,4,1,2,11,3,121800.0,Yes
+ABC00043,40,Sales,Bachelors,2,4,39,No,2,1,4,0,3,102300.0,No
+ABC00044,48,IT,Masters,4,12,9,No,1,3,1,49,3,162400.0,No
+ABC00045,27,Sales,High School,3,6,6,Yes,4,4,3,24,0,95000.0,No
+ABC00046,28,Operations,Bachelors,1,7,19,Yes,2,2,1,79,0,63500.0,Yes
+ABC00047,55,Finance,Masters,5,16,7,No,1,1,3,4,2,164500.0,No
+ABC00048,34,Customer Support,Bachelors,2,0,16,No,4,4,3,67,2,86700.0,No
+ABC00049,37,Sales,High School,2,3,5,Yes,2,1,1,5,0,73700.0,Yes
+ABC00050,56,IT,Bachelors,3,3,16,Yes,1,2,2,25,2,114300.0,No
+ABC00051,24,Customer Support,High School,1,3,1,Yes,4,4,2,54,1,49100.0,Yes
+ABC00052,22,Sales,High School,3,1,37,Yes,1,3,2,38,1,82400.0,No
+ABC00053,26,Finance,Bachelors,2,5,39,Yes,2,3,2,8,0,86100.0,Yes
+ABC00054,24,Operations,Bachelors,2,3,19,No,4,1,1,44,3,71500.0,No
+ABC00055,49,Operations,Bachelors,5,13,37,Yes,4,1,4,13,1,153600.0,No
+ABC00056,38,Customer Support,Masters,2,17,17,No,4,4,3,54,1,114500.0,No
+ABC00057,46,Sales,Bachelors,1,14,26,Yes,2,2,1,8,3,88100.0,No
+ABC00058,54,HR,High School,2,5,22,No,3,1,2,14,2,82800.0,No
+ABC00059,30,Finance,Bachelors,4,9,8,No,4,4,2,36,3,130700.0,No
+ABC00060,56,Sales,Masters,1,9,33,No,2,2,1,49,2,94000.0,No
+ABC00061,34,HR,Bachelors,1,13,2,No,1,1,3,71,2,82500.0,No
+ABC00062,51,Customer Support,Masters,1,3,30,No,1,1,1,20,3,87400.0,No
+ABC00063,35,Sales,Bachelors,1,14,20,No,2,4,1,56,2,74300.0,No
+ABC00064,28,Customer Support,Bachelors,4,7,18,No,3,1,4,18,1,111500.0,No
+ABC00065,34,IT,Bachelors,3,13,43,No,2,3,1,57,0,118000.0,No
+ABC00066,43,IT,Bachelors,2,16,10,No,1,2,4,5,2,120000.0,No
+ABC00067,41,IT,Bachelors,3,11,24,No,1,2,3,3,1,116900.0,No
+ABC00068,36,Operations,Bachelors,2,6,4,No,4,3,1,42,3,89900.0,No
+ABC00069,38,Customer Support,Bachelors,5,15,37,No,3,4,1,41,2,134100.0,No
+ABC00070,44,Customer Support,Bachelors,5,10,4,Yes,2,3,2,2,1,132300.0,No
+ABC00071,46,IT,Masters,2,13,13,Yes,1,3,1,0,2,124200.0,No
+ABC00072,45,Finance,Masters,4,2,25,No,1,2,2,54,3,142500.0,No
+ABC00073,49,IT,Bachelors,3,18,13,Yes,1,4,2,14,0,128000.0,No
+ABC00074,35,IT,Bachelors,2,14,18,No,2,1,2,46,2,102000.0,No
+ABC00075,21,HR,Bachelors,1,0,24,Yes,2,3,3,45,0,56500.0,Yes
+ABC00076,45,IT,Masters,2,5,2,No,3,3,4,57,2,116100.0,No
+ABC00077,27,IT,Bachelors,3,6,33,No,4,4,2,70,2,120000.0,No
+ABC00078,29,Finance,PhD,5,8,19,No,4,3,1,38,3,153100.0,No
+ABC00079,44,IT,Bachelors,3,17,9,No,4,4,1,2,2,121900.0,No
+ABC00080,21,Sales,Bachelors,4,0,28,No,1,1,2,29,1,113100.0,No
+ABC00081,28,Sales,Bachelors,3,7,35,No,4,4,2,34,1,110000.0,No
+ABC00082,44,Operations,Masters,4,23,39,No,1,1,1,56,0,140900.0,No
+ABC00083,31,HR,Bachelors,3,10,10,Yes,3,4,2,28,0,110500.0,Yes
+ABC00084,37,IT,Bachelors,2,5,1,No,1,3,4,49,1,95700.0,No
+ABC00085,28,HR,PhD,2,7,42,No,3,1,4,61,0,99700.0,No
+ABC00086,55,IT,High School,4,3,21,No,3,3,3,51,0,124300.0,No
+ABC00087,55,IT,Masters,1,22,9,No,4,1,2,13,1,123700.0,No
+ABC00088,53,Operations,High School,4,13,15,No,4,4,3,34,1,129700.0,No
+ABC00089,25,IT,Masters,1,0,35,Yes,1,4,3,27,1,77800.0,Yes
+ABC00090,59,Finance,Bachelors,2,19,5,Yes,2,4,3,57,3,125200.0,No
+ABC00091,48,Customer Support,Bachelors,4,4,41,No,4,2,2,29,3,124200.0,No
+ABC00092,27,Operations,Masters,1,6,22,No,4,2,3,6,1,80600.0,No
+ABC00093,29,Sales,High School,1,8,41,No,2,1,4,38,2,82000.0,Yes
+ABC00094,28,Sales,Bachelors,2,1,23,Yes,2,2,3,68,1,79700.0,Yes
+ABC00095,32,Sales,Bachelors,4,11,7,No,4,4,4,34,3,133400.0,No
+ABC00096,54,HR,Bachelors,1,4,23,No,2,2,4,51,0,77400.0,No
+ABC00097,53,Operations,Bachelors,4,21,44,No,1,2,2,13,2,145100.0,No
+ABC00098,43,IT,High School,1,4,25,Yes,3,3,3,62,2,77000.0,Yes
+ABC00099,44,IT,High School,5,12,27,Yes,3,1,2,35,0,145200.0,No
+ABC00100,57,Sales,High School,5,8,41,Yes,4,1,4,23,2,151300.0,No
+ABC00101,55,Operations,Bachelors,2,9,6,Yes,4,1,1,39,0,84700.0,No
+ABC00102,42,Operations,Bachelors,2,0,34,Yes,1,2,3,28,3,86100.0,Yes
+ABC00103,47,Operations,Masters,2,2,9,Yes,2,4,2,52,2,101300.0,No
+ABC00104,55,Sales,Masters,3,17,33,No,4,3,1,21,2,144000.0,No
+ABC00105,21,Finance,Masters,1,0,6,No,3,1,3,71,0,79600.0,No
+ABC00106,55,Sales,Bachelors,1,2,37,No,1,2,3,14,0,68700.0,Yes
+ABC00107,57,Customer Support,Bachelors,1,24,31,Yes,1,4,2,68,3,102100.0,No
+ABC00108,34,Operations,Bachelors,2,8,34,No,2,3,1,63,0,86100.0,Yes
+ABC00109,23,Finance,Bachelors,1,1,41,No,4,3,2,3,0,60200.0,No
+ABC00110,21,IT,Bachelors,3,0,29,Yes,4,1,3,74,3,101300.0,Yes
+ABC00111,25,Finance,High School,5,4,14,No,1,1,3,17,1,124700.0,No
+ABC00112,46,Finance,Bachelors,2,3,36,Yes,3,4,4,41,1,101400.0,No
+ABC00113,34,IT,PhD,2,13,36,No,4,2,3,29,0,117100.0,No
+ABC00114,59,IT,Bachelors,2,18,15,No,3,4,3,14,3,121600.0,No
+ABC00115,47,IT,Bachelors,4,12,8,No,1,1,1,69,1,135600.0,No
+ABC00116,29,IT,High School,4,6,26,No,4,4,1,54,3,125900.0,No
+ABC00117,35,Sales,Bachelors,4,11,36,No,3,2,4,52,0,127400.0,No
+ABC00118,35,Operations,Masters,5,2,21,No,1,3,4,15,0,138100.0,No
+ABC00119,46,IT,Bachelors,1,22,28,No,3,3,4,72,3,120200.0,No
+ABC00120,33,IT,Bachelors,4,12,4,Yes,4,3,2,33,2,144900.0,No
+ABC00121,52,Finance,High School,3,8,16,Yes,2,3,2,26,0,113100.0,No
+ABC00122,59,HR,Bachelors,1,1,22,No,3,1,4,12,0,61700.0,Yes
+ABC00123,52,Customer Support,High School,5,21,12,No,2,1,2,26,0,139400.0,No
+ABC00124,24,Operations,Masters,1,3,16,No,4,2,3,72,0,76800.0,No
+ABC00125,50,Operations,Masters,3,11,40,Yes,2,2,4,68,3,140400.0,No
+ABC00126,57,Operations,Masters,1,11,38,No,1,2,4,30,3,106100.0,Yes
+ABC00127,43,Operations,Bachelors,2,14,42,Yes,2,2,2,2,3,96500.0,No
+ABC00128,59,Finance,Masters,3,1,37,No,3,4,1,29,3,118000.0,No
+ABC00129,35,Operations,Bachelors,2,14,29,No,3,2,4,20,2,97100.0,No
+ABC00130,49,Finance,Bachelors,2,12,18,No,2,3,2,5,3,111900.0,No
+ABC00131,56,Operations,Bachelors,2,13,10,Yes,1,3,2,31,3,101500.0,No
+ABC00132,33,IT,High School,4,4,42,No,4,3,1,41,0,90900.0,No
+ABC00133,52,IT,High School,1,9,39,No,2,4,4,61,2,82300.0,No
+ABC00134,27,Operations,Masters,2,6,18,No,3,2,1,31,0,83100.0,Yes
+ABC00135,42,IT,Bachelors,4,9,1,No,3,3,3,38,2,128700.0,No
+ABC00136,48,Operations,Bachelors,4,23,39,No,2,3,1,63,1,128200.0,No
+ABC00137,22,Sales,Bachelors,2,1,21,No,2,3,1,29,2,90600.0,No
+ABC00138,26,Operations,Masters,3,5,1,No,2,3,2,62,2,107700.0,No
+ABC00139,48,Sales,PhD,4,1,15,Yes,4,1,1,30,0,129800.0,No
+ABC00140,48,Operations,Masters,4,4,4,No,3,2,3,39,2,134700.0,No
+ABC00141,40,IT,Bachelors,2,6,20,No,3,2,2,32,2,107100.0,No
+ABC00142,50,IT,Bachelors,1,5,10,Yes,3,4,3,62,0,96900.0,No
+ABC00143,31,HR,Bachelors,1,10,23,Yes,4,1,1,24,1,82000.0,Yes
+ABC00144,48,Sales,High School,1,22,41,No,1,4,3,35,1,92900.0,No
+ABC00145,45,HR,High School,3,2,34,Yes,3,3,3,23,1,84200.0,No
+ABC00146,59,Operations,Bachelors,1,12,33,No,3,4,1,57,2,77600.0,No
+ABC00147,53,Operations,Bachelors,3,2,34,Yes,1,3,1,38,0,91400.0,Yes
+ABC00148,21,Customer Support,PhD,2,0,39,No,4,3,2,45,1,95300.0,Yes
+ABC00149,47,Sales,Bachelors,1,23,10,No,1,2,2,76,1,97300.0,No
+ABC00150,33,IT,Bachelors,4,12,20,No,1,2,4,9,1,128500.0,No
+ABC00151,23,IT,High School,2,2,1,No,1,2,2,31,1,69400.0,No
+ABC00152,59,Operations,Masters,1,10,13,No,1,2,1,35,0,86800.0,No
+ABC00153,26,Operations,Masters,4,5,1,No,4,2,3,27,1,123000.0,No
+ABC00154,28,Operations,Masters,1,7,5,Yes,4,1,3,15,2,82000.0,Yes
+ABC00155,47,Customer Support,Masters,3,11,16,Yes,1,2,2,15,2,122200.0,No
+ABC00156,29,Operations,Bachelors,3,8,15,Yes,2,4,2,17,0,103800.0,No
+ABC00157,57,Operations,Bachelors,2,3,28,No,2,3,1,7,3,92100.0,No
+ABC00158,53,Operations,Bachelors,4,1,31,Yes,2,2,3,79,1,110000.0,No
+ABC00159,44,HR,Bachelors,2,10,23,Yes,2,1,4,74,1,109700.0,No
+ABC00160,35,Sales,Bachelors,2,6,43,No,3,4,4,69,2,94600.0,Yes
+ABC00161,52,Operations,Bachelors,1,1,17,No,4,4,2,0,0,65100.0,Yes
+ABC00162,52,IT,PhD,1,17,34,No,4,3,4,61,3,128100.0,No
+ABC00163,44,Customer Support,PhD,5,20,13,Yes,1,4,1,75,2,162300.0,No
+ABC00164,32,Operations,Masters,2,3,14,Yes,3,4,4,37,3,94200.0,No
+ABC00165,59,Operations,Masters,2,7,11,No,1,4,2,44,0,91800.0,No
+ABC00166,22,Operations,Masters,2,1,28,Yes,1,4,1,57,0,60200.0,Yes
+ABC00167,23,IT,Bachelors,3,2,42,No,4,1,3,0,0,100900.0,Yes
+ABC00168,57,Operations,High School,1,11,32,No,3,3,1,31,2,80400.0,No
+ABC00169,37,IT,Masters,2,16,35,No,2,2,2,7,0,109400.0,Yes
+ABC00170,22,Finance,Masters,3,1,31,Yes,4,4,2,39,2,126200.0,No
+ABC00171,22,HR,High School,1,1,17,No,3,1,4,55,2,69100.0,No
+ABC00172,48,Operations,Masters,1,10,9,No,3,3,4,62,1,92300.0,No
+ABC00173,43,Customer Support,High School,1,7,10,No,4,2,3,73,2,61100.0,No
+ABC00174,57,IT,Bachelors,2,1,8,No,4,3,3,73,2,92200.0,No
+ABC00175,52,IT,Masters,4,24,21,Yes,1,1,2,35,1,161700.0,No
+ABC00176,53,Sales,Bachelors,1,14,13,Yes,1,1,2,56,3,94100.0,Yes
+ABC00177,21,Customer Support,High School,1,0,5,No,1,1,2,73,1,46100.0,Yes
+ABC00178,39,Sales,Bachelors,2,18,6,No,2,4,3,44,1,112200.0,No
+ABC00179,22,Operations,Masters,3,1,30,No,4,1,2,78,0,104800.0,Yes
+ABC00180,46,Sales,Bachelors,3,7,31,No,3,2,3,79,0,109500.0,No
+ABC00181,52,IT,Masters,2,24,17,No,4,4,2,1,1,135600.0,No
+ABC00182,26,Operations,Bachelors,3,5,11,No,3,3,1,67,0,87400.0,No
+ABC00183,52,Sales,High School,3,4,20,No,2,2,1,49,1,94900.0,No
+ABC00184,24,Sales,PhD,4,3,9,Yes,4,4,2,28,0,132300.0,No
+ABC00185,31,Sales,High School,4,10,2,No,3,1,1,9,2,111900.0,No
+ABC00186,37,IT,PhD,1,7,37,Yes,3,3,3,26,0,108000.0,Yes
+ABC00187,58,HR,Bachelors,1,18,1,No,1,1,4,14,0,87700.0,No
+ABC00188,44,Operations,PhD,1,22,4,No,2,2,1,59,2,108700.0,No
+ABC00189,25,IT,High School,2,4,36,No,4,2,4,30,1,81000.0,Yes
+ABC00190,54,HR,Bachelors,5,18,25,Yes,1,4,1,20,0,141300.0,No
+ABC00191,26,Sales,Bachelors,2,5,3,No,2,2,3,59,0,81600.0,No
+ABC00192,42,Operations,High School,1,9,9,Yes,1,3,1,57,2,73100.0,Yes
+ABC00193,31,Customer Support,Bachelors,3,6,22,No,4,4,1,40,2,96200.0,No
+ABC00194,36,IT,Bachelors,2,8,23,Yes,3,3,2,45,2,93700.0,No
+ABC00195,53,Operations,Bachelors,1,0,12,No,4,1,4,44,3,69500.0,No
+ABC00196,29,IT,High School,2,8,10,No,2,3,4,25,2,93800.0,No
+ABC00197,26,Operations,Bachelors,2,4,34,No,4,3,3,50,1,86100.0,No
+ABC00198,36,IT,Masters,3,15,43,No,2,2,3,35,0,139700.0,No
+ABC00199,49,Sales,Bachelors,1,0,10,Yes,1,1,4,51,0,62200.0,Yes
+ABC00200,23,Sales,Bachelors,1,2,30,Yes,2,2,2,50,3,72500.0,Yes
+ABC00201,40,Sales,Bachelors,2,15,22,No,3,1,2,2,0,94600.0,No
+ABC00202,56,Customer Support,Masters,1,22,6,No,3,1,4,13,0,102300.0,No
+ABC00203,39,Finance,Bachelors,3,6,2,Yes,3,3,1,48,1,100000.0,No
+ABC00204,46,Sales,Masters,2,11,30,No,1,2,4,76,0,107700.0,Yes
+ABC00205,23,Sales,PhD,2,2,2,No,2,3,1,0,1,92100.0,No
+ABC00206,39,Finance,Masters,5,4,32,Yes,1,3,4,56,3,155900.0,No
+ABC00207,40,Sales,Bachelors,3,9,42,Yes,4,3,1,16,1,112200.0,No
+ABC00208,52,Operations,Bachelors,1,20,16,Yes,4,1,2,49,2,97400.0,No
+ABC00209,27,Customer Support,Masters,2,4,12,No,4,2,4,13,2,106400.0,No
+ABC00210,53,Operations,Bachelors,3,16,1,No,4,2,3,58,3,127800.0,No
+ABC00211,59,HR,High School,3,4,8,No,3,3,1,2,0,93000.0,No
+ABC00212,38,Customer Support,Bachelors,1,17,13,No,2,1,2,39,1,84100.0,No
+ABC00213,21,Operations,Masters,5,0,15,Yes,3,2,3,65,2,128100.0,No
+ABC00214,31,Sales,Bachelors,2,10,44,No,2,4,2,33,1,78800.0,No
+ABC00215,48,Operations,Masters,1,0,8,No,2,2,1,8,2,80700.0,No
+ABC00216,45,Finance,Bachelors,1,10,10,Yes,1,3,4,20,1,79700.0,Yes
+ABC00217,43,Customer Support,Bachelors,1,22,5,No,4,4,2,24,0,92000.0,No
+ABC00218,51,Finance,High School,4,0,19,No,2,1,4,43,3,127800.0,No
+ABC00219,50,Sales,Bachelors,1,10,38,No,4,4,4,24,0,78900.0,Yes
+ABC00220,55,Finance,PhD,1,17,11,No,4,4,2,8,1,116300.0,No
+ABC00221,27,Customer Support,Masters,4,6,43,Yes,4,3,2,61,2,122200.0,No
+ABC00222,36,IT,Masters,2,15,20,Yes,3,2,2,25,2,114300.0,No
+ABC00223,46,Customer Support,Bachelors,1,15,20,No,4,1,4,56,3,95000.0,No
+ABC00224,22,Finance,Masters,1,1,21,Yes,2,4,3,36,0,81100.0,Yes
+ABC00225,21,HR,Bachelors,1,0,18,No,3,3,1,15,0,45100.0,Yes
+ABC00226,32,IT,Bachelors,1,0,10,No,4,2,3,36,0,67200.0,Yes
+ABC00227,25,Operations,High School,3,4,34,No,1,4,4,75,2,93100.0,No
+ABC00228,57,Sales,Bachelors,1,0,26,No,4,3,2,23,3,84900.0,No
+ABC00229,52,IT,Masters,1,16,30,No,4,3,2,25,2,114700.0,No
+ABC00230,29,Operations,PhD,3,5,9,No,3,3,1,19,0,98200.0,No
+ABC00231,55,Customer Support,High School,3,1,31,No,2,1,1,8,1,84400.0,No
+ABC00232,39,Customer Support,Masters,2,16,42,Yes,4,2,3,28,2,113200.0,No
+ABC00233,36,Finance,Bachelors,2,5,4,Yes,3,4,3,30,3,95500.0,Yes
+ABC00234,23,Sales,Bachelors,2,2,6,No,3,2,1,18,0,68500.0,Yes
+ABC00235,40,Operations,High School,2,17,14,Yes,2,2,4,19,1,90900.0,Yes
+ABC00236,44,Sales,Bachelors,2,5,4,Yes,3,4,3,26,2,92900.0,No
+ABC00237,53,HR,Bachelors,2,9,26,Yes,2,2,2,43,1,88800.0,No
+ABC00238,44,Finance,Bachelors,4,23,39,No,1,1,2,34,1,149800.0,No
+ABC00239,31,Customer Support,Masters,1,10,17,No,4,4,4,70,3,86100.0,No
+ABC00240,28,Operations,Masters,3,7,19,Yes,3,4,1,21,2,102100.0,Yes
+ABC00241,56,Customer Support,Bachelors,1,7,6,No,1,3,3,73,3,80300.0,No
+ABC00242,58,Customer Support,PhD,3,9,29,No,3,2,2,14,0,135100.0,No
+ABC00243,40,Operations,Bachelors,3,16,11,Yes,3,4,1,12,1,112900.0,Yes
+ABC00244,55,Customer Support,Bachelors,4,22,16,No,1,4,3,3,3,148900.0,No
+ABC00245,45,Operations,Masters,1,5,30,No,3,1,4,55,3,93200.0,No
+ABC00246,55,Operations,Bachelors,2,13,25,No,3,3,2,22,0,89400.0,No
+ABC00247,45,IT,Bachelors,2,21,40,No,1,4,4,33,2,120900.0,No
+ABC00248,49,Operations,Bachelors,3,21,11,Yes,3,1,4,16,3,127000.0,No
+ABC00249,38,IT,High School,2,5,7,No,2,4,4,27,1,98900.0,No
+ABC00250,38,IT,Masters,2,6,26,Yes,3,4,3,13,1,110900.0,No
+ABC00251,22,IT,Bachelors,2,1,22,No,4,4,4,33,1,80800.0,No
+ABC00252,55,Operations,Bachelors,2,2,25,No,3,1,3,74,1,96100.0,No
+ABC00253,36,IT,High School,2,13,19,No,4,2,3,56,3,102900.0,No
+ABC00254,56,IT,Masters,1,21,31,Yes,4,4,4,76,1,123900.0,No
+ABC00255,53,IT,Bachelors,5,18,26,No,3,4,4,54,3,177800.0,No
+ABC00256,24,Operations,Masters,3,3,42,No,1,2,1,65,2,86900.0,No
+ABC00257,53,Sales,Bachelors,5,15,41,No,2,4,2,36,1,151600.0,No
+ABC00258,34,IT,Bachelors,1,6,36,No,2,3,1,67,2,79400.0,Yes
+ABC00259,41,Sales,Bachelors,4,7,23,No,3,4,2,75,3,112200.0,No
+ABC00260,40,IT,High School,4,17,13,No,1,3,2,25,0,122600.0,No
+ABC00261,28,Finance,Bachelors,3,7,25,No,1,2,1,60,2,104600.0,No
+ABC00262,27,IT,Bachelors,3,6,2,No,2,1,1,66,1,110900.0,No
+ABC00263,23,IT,Masters,2,2,2,No,1,2,2,73,0,93200.0,No
+ABC00264,37,Customer Support,High School,4,8,16,No,3,4,2,51,2,110600.0,No
+ABC00265,53,Finance,Masters,2,9,9,Yes,3,3,2,17,3,115600.0,No
+ABC00266,32,Customer Support,Bachelors,1,11,28,No,1,1,3,52,3,86800.0,No
+ABC00267,42,Finance,Bachelors,2,21,13,No,3,4,2,62,3,121900.0,No
+ABC00268,42,Sales,Bachelors,5,8,35,Yes,4,1,4,52,2,146200.0,No
+ABC00269,50,Sales,Masters,4,14,41,No,2,1,4,26,3,145900.0,No
+ABC00270,58,IT,Bachelors,5,19,13,No,3,4,4,30,2,171900.0,No
+ABC00271,58,Operations,High School,3,1,31,No,1,2,1,0,1,105800.0,No
+ABC00272,28,IT,Bachelors,1,7,21,No,2,4,1,5,1,82100.0,No
+ABC00273,47,Operations,High School,1,12,32,Yes,3,4,1,10,2,67600.0,Yes
+ABC00274,47,IT,High School,1,1,34,Yes,2,2,2,33,2,84400.0,Yes
+ABC00275,54,Finance,Bachelors,1,18,8,No,1,3,4,62,0,95100.0,No
+ABC00276,41,HR,High School,2,1,41,Yes,4,4,2,52,3,83800.0,No
+ABC00277,50,IT,High School,1,2,2,Yes,4,1,3,17,1,74600.0,Yes
+ABC00278,53,Finance,Masters,2,5,38,No,3,4,3,20,1,110500.0,No
+ABC00279,48,Operations,Bachelors,5,2,32,No,4,4,1,18,0,123600.0,No
+ABC00280,53,Customer Support,High School,2,9,40,No,3,1,3,3,2,86700.0,No
+ABC00281,25,Sales,Bachelors,4,4,28,No,2,2,4,76,2,118000.0,No
+ABC00282,39,Customer Support,Bachelors,3,5,37,Yes,3,3,3,28,0,88300.0,Yes
+ABC00283,24,HR,Bachelors,1,3,41,Yes,3,3,1,24,3,60500.0,Yes
+ABC00284,55,Operations,Bachelors,2,15,1,No,3,1,2,55,2,105500.0,No
+ABC00285,37,Sales,High School,1,16,41,No,4,2,3,76,2,78700.0,No
+ABC00286,48,IT,Bachelors,2,18,10,Yes,3,4,4,62,3,119500.0,No
+ABC00287,50,Sales,Bachelors,3,2,4,No,1,4,4,26,3,130400.0,No
+ABC00288,49,Sales,Bachelors,1,17,35,Yes,3,4,4,59,0,107000.0,No
+ABC00289,26,IT,Masters,1,5,10,No,2,4,2,48,0,87300.0,No
+ABC00290,55,IT,Bachelors,2,8,11,Yes,1,4,4,64,0,110400.0,No
+ABC00291,57,HR,Bachelors,5,19,14,Yes,2,1,1,37,2,148500.0,No
+ABC00292,44,Customer Support,Bachelors,3,11,38,Yes,2,4,1,51,0,92800.0,No
+ABC00293,49,IT,Bachelors,3,4,12,No,2,4,4,0,2,118500.0,No
+ABC00294,51,IT,Bachelors,1,2,17,No,1,2,3,39,1,83200.0,No
+ABC00295,55,Sales,Bachelors,3,10,16,No,1,4,4,20,3,128800.0,No
+ABC00296,53,HR,Masters,3,24,35,No,4,3,1,14,3,130200.0,No
+ABC00297,41,Operations,Bachelors,3,3,2,No,1,1,1,49,1,107300.0,Yes
+ABC00298,52,Customer Support,Bachelors,5,4,11,Yes,3,1,1,47,0,125400.0,No
+ABC00299,43,Finance,Bachelors,2,0,41,No,2,1,3,31,2,84100.0,Yes
+ABC00300,53,IT,Bachelors,5,17,3,No,4,3,3,48,2,165700.0,No
+ABC00301,23,Sales,High School,4,2,29,No,1,4,3,67,2,101400.0,No
+ABC00302,38,Customer Support,Masters,1,12,18,Yes,2,1,1,44,3,82500.0,No
+ABC00303,45,Finance,Bachelors,2,8,20,No,1,3,2,31,0,88700.0,No
+ABC00304,51,Sales,Masters,5,1,14,Yes,4,2,4,3,2,148000.0,No
+ABC00305,23,Operations,Masters,1,2,34,No,1,4,4,64,2,90900.0,No
+ABC00306,44,Finance,Masters,2,12,31,Yes,1,3,1,70,2,113700.0,No
+ABC00307,52,Sales,Bachelors,5,15,40,No,2,4,3,72,1,155300.0,No
+ABC00308,42,Customer Support,High School,2,15,42,No,3,2,2,64,2,95200.0,Yes
+ABC00309,43,Operations,Bachelors,1,22,18,No,1,3,2,79,1,89400.0,No
+ABC00310,22,Sales,Bachelors,3,1,30,No,4,4,3,17,2,91300.0,No
+ABC00311,47,Finance,Bachelors,1,21,25,No,1,3,4,53,2,97700.0,No
+ABC00312,22,Operations,Masters,2,1,19,No,1,1,4,46,2,89500.0,Yes
+ABC00313,46,IT,Bachelors,1,10,8,No,3,4,2,5,1,95700.0,No
+ABC00314,37,Sales,Bachelors,3,16,28,No,2,3,2,65,2,123900.0,No
+ABC00315,53,Sales,Bachelors,2,13,8,No,4,1,3,8,0,102500.0,No
+ABC00316,29,IT,Bachelors,3,2,31,Yes,2,2,4,67,2,114400.0,No
+ABC00317,59,IT,Bachelors,3,15,3,No,2,4,2,22,1,127900.0,No
+ABC00318,49,IT,Masters,2,21,3,No,2,4,4,42,1,130000.0,No
+ABC00319,46,Finance,Masters,3,14,44,No,1,2,2,50,0,123200.0,No
+ABC00320,55,IT,Masters,1,9,22,No,3,1,3,71,3,100000.0,Yes
+ABC00321,45,Sales,Masters,3,8,17,No,1,2,4,24,0,130900.0,No
+ABC00322,44,Operations,Masters,1,10,36,Yes,4,4,2,79,0,84200.0,Yes
+ABC00323,33,Customer Support,High School,4,12,17,Yes,3,3,2,34,1,107600.0,No
+ABC00324,27,Finance,Masters,1,6,14,Yes,2,1,2,16,2,99200.0,Yes
+ABC00325,56,IT,Bachelors,2,16,9,No,3,1,2,17,2,129100.0,No
+ABC00326,40,Operations,High School,3,18,30,No,4,1,3,26,3,131600.0,No
+ABC00327,21,Operations,Bachelors,2,0,21,No,1,2,4,14,3,81800.0,Yes
+ABC00328,28,Finance,Bachelors,1,7,12,No,1,2,4,68,3,88400.0,No
+ABC00329,36,Customer Support,High School,2,15,37,Yes,2,3,1,79,3,92200.0,No
+ABC00330,34,HR,High School,3,1,32,No,1,3,4,14,0,98400.0,No
+ABC00331,32,Finance,High School,3,5,11,No,1,1,1,41,0,92500.0,Yes
+ABC00332,43,Finance,Masters,2,18,20,No,4,3,2,33,2,116600.0,No
+ABC00333,35,Sales,High School,2,7,35,No,3,2,3,47,0,75900.0,Yes
+ABC00334,48,Operations,Bachelors,2,2,11,No,1,3,3,7,2,95400.0,No
+ABC00335,54,Sales,Bachelors,3,13,8,No,4,2,2,9,2,123500.0,No
+ABC00336,22,Operations,Bachelors,3,1,4,No,4,3,1,4,2,88300.0,No
+ABC00337,52,Customer Support,Masters,2,15,27,Yes,2,4,2,47,2,109200.0,No
+ABC00338,43,IT,High School,1,0,44,Yes,4,2,3,25,1,69400.0,Yes
+ABC00339,42,IT,Bachelors,1,20,40,No,2,4,3,22,2,112500.0,No
+ABC00340,45,Sales,Masters,1,2,38,No,1,2,4,61,0,78200.0,Yes
+ABC00341,42,Operations,PhD,1,21,30,No,2,3,1,12,0,98000.0,No
+ABC00342,42,Operations,Bachelors,2,17,44,No,4,4,4,8,0,111900.0,No
+ABC00343,26,Sales,Masters,3,5,27,No,3,3,3,19,0,108500.0,No
+ABC00344,35,IT,High School,1,5,21,Yes,3,2,3,56,1,73500.0,Yes
+ABC00345,57,Operations,Bachelors,5,22,20,No,1,4,4,23,3,169500.0,No
+ABC00346,53,IT,Bachelors,1,20,4,No,1,1,4,32,3,108000.0,No
+ABC00347,28,Sales,Masters,3,7,11,Yes,3,3,3,19,2,121800.0,No
+ABC00348,25,Sales,Bachelors,3,0,13,No,2,2,4,59,2,98200.0,No
+ABC00349,59,Operations,Bachelors,2,20,9,No,1,4,4,47,0,116500.0,No
+ABC00350,24,IT,Bachelors,1,3,4,No,4,3,1,63,0,59100.0,Yes
+ABC00351,26,HR,High School,3,5,12,No,1,4,3,29,3,100000.0,No
+ABC00352,52,Operations,Bachelors,2,22,9,No,2,3,2,72,3,112600.0,No
+ABC00353,50,Operations,PhD,5,11,13,No,1,3,1,16,0,151500.0,No
+ABC00354,55,HR,Bachelors,2,3,26,No,4,3,2,13,2,95700.0,No
+ABC00355,36,Sales,Bachelors,5,12,38,No,4,4,4,18,1,144300.0,No
+ABC00356,33,Operations,Masters,1,12,42,Yes,4,4,4,70,1,93100.0,Yes
+ABC00357,50,Finance,Bachelors,3,7,13,No,2,3,2,58,3,127000.0,No
+ABC00358,39,IT,High School,3,18,39,Yes,2,1,4,66,3,134000.0,No
+ABC00359,37,Operations,Bachelors,3,2,28,Yes,4,1,4,43,3,99000.0,No
+ABC00360,39,Customer Support,Bachelors,1,11,19,No,4,1,1,31,1,68100.0,Yes
+ABC00361,48,Finance,Bachelors,3,6,24,Yes,2,2,2,10,1,114400.0,No
+ABC00362,46,Operations,Bachelors,2,11,19,No,2,1,1,1,0,92300.0,Yes
+ABC00363,57,IT,High School,3,1,13,Yes,2,4,2,67,2,104000.0,No
+ABC00364,46,IT,Bachelors,2,23,13,No,3,1,1,16,3,124100.0,No
+ABC00365,43,Operations,Masters,4,13,28,Yes,2,4,3,39,0,135100.0,No
+ABC00366,29,Operations,Masters,1,8,2,Yes,4,2,3,45,1,83800.0,No
+ABC00367,32,Operations,Masters,4,11,10,Yes,3,4,2,3,0,118700.0,No
+ABC00368,21,IT,Masters,4,0,22,No,2,4,3,37,1,118300.0,No
+ABC00369,21,Operations,Bachelors,4,0,13,No,4,4,1,62,2,89200.0,No
+ABC00370,54,Finance,Masters,2,20,9,Yes,1,1,2,28,1,125800.0,No
+ABC00371,52,HR,High School,2,10,33,No,3,3,3,18,0,78900.0,Yes
+ABC00372,45,Sales,Masters,5,4,14,No,4,4,3,28,2,161600.0,No
+ABC00373,21,IT,Bachelors,1,0,20,No,1,1,2,34,1,73200.0,No
+ABC00374,36,Operations,High School,2,15,15,No,4,1,3,69,3,88200.0,No
+ABC00375,59,IT,Masters,3,1,32,No,2,1,3,22,1,131200.0,No
+ABC00376,25,HR,Masters,3,4,33,Yes,2,3,2,45,2,115100.0,No
+ABC00377,42,Operations,Bachelors,1,0,17,No,1,3,3,43,0,70400.0,No
+ABC00378,49,Operations,Masters,3,6,24,No,2,3,3,47,2,113600.0,No
+ABC00379,23,Sales,High School,4,2,30,No,4,3,3,51,0,105100.0,No
+ABC00380,32,Sales,Bachelors,1,4,13,Yes,1,2,3,7,1,79300.0,Yes
+ABC00381,46,Operations,Bachelors,4,18,16,Yes,4,3,4,54,1,145800.0,No
+ABC00382,36,Operations,Bachelors,1,10,2,No,4,3,2,65,2,67700.0,Yes
+ABC00383,57,Customer Support,Masters,2,22,17,No,4,3,4,76,3,127200.0,No
+ABC00384,42,Operations,Masters,1,21,32,No,2,4,4,39,1,98700.0,No
+ABC00385,49,Operations,Masters,1,1,43,No,2,4,1,30,3,91600.0,Yes
+ABC00386,34,IT,Bachelors,4,7,8,Yes,4,3,4,47,3,140500.0,No
+ABC00387,48,Sales,Masters,2,8,3,No,3,2,4,60,2,117300.0,No
+ABC00388,25,Customer Support,High School,2,2,12,No,4,4,1,51,1,66300.0,No
+ABC00389,50,IT,Masters,1,1,20,No,4,1,3,37,3,100000.0,No
+ABC00390,25,Finance,Bachelors,3,4,16,Yes,1,4,3,35,1,99600.0,No
+ABC00391,32,Sales,High School,3,4,14,No,4,1,4,54,0,90700.0,No
+ABC00392,36,Operations,Masters,2,15,16,No,2,4,1,12,3,108700.0,Yes
+ABC00393,46,Operations,Bachelors,2,4,43,Yes,1,3,3,36,2,86200.0,No
+ABC00394,46,Finance,Bachelors,4,19,33,No,3,4,1,46,2,137100.0,No
+ABC00395,41,Sales,Bachelors,2,12,30,No,1,3,2,70,3,101500.0,No
+ABC00396,59,Operations,High School,2,20,12,Yes,3,3,2,21,1,96100.0,No
+ABC00397,56,Customer Support,Bachelors,1,19,15,No,1,4,2,38,0,85900.0,No
+ABC00398,53,IT,High School,3,5,18,No,1,1,2,57,0,101200.0,No
+ABC00399,50,Operations,Bachelors,2,19,28,No,3,1,4,29,2,107700.0,No
+ABC00400,57,Sales,High School,2,17,23,No,2,4,2,17,2,96900.0,No
+ABC00401,43,Customer Support,Masters,1,22,14,No,2,3,2,17,1,98300.0,No
+ABC00402,30,Sales,Bachelors,5,1,30,Yes,2,1,1,73,2,131000.0,No
+ABC00403,25,Finance,PhD,1,4,33,No,1,2,3,38,1,100700.0,No
+ABC00404,56,Finance,Masters,3,5,15,No,4,3,1,25,3,117100.0,No
+ABC00405,54,Operations,Bachelors,2,8,7,No,1,4,4,70,0,99000.0,No
+ABC00406,51,HR,Masters,1,24,15,No,4,3,2,6,3,117000.0,No
+ABC00407,30,Sales,Masters,3,2,42,Yes,4,2,3,68,2,117200.0,No
+ABC00408,39,Operations,PhD,2,0,38,No,2,2,3,64,0,105700.0,Yes
+ABC00409,52,Finance,Bachelors,4,0,44,No,4,1,2,45,0,113200.0,Yes
+ABC00410,21,Customer Support,High School,4,0,11,Yes,1,2,2,17,3,96500.0,No
+ABC00411,25,IT,Bachelors,4,4,29,No,1,3,4,12,1,136000.0,No
+ABC00412,24,IT,Bachelors,1,3,31,No,2,1,4,24,0,86200.0,No
+ABC00413,36,Sales,Bachelors,3,15,25,No,3,2,2,7,1,113300.0,No
+ABC00414,44,Sales,Bachelors,2,11,24,Yes,1,1,2,73,3,106000.0,No
+ABC00415,36,Sales,Masters,4,15,19,No,4,1,2,31,3,148900.0,No
+ABC00416,22,Operations,PhD,3,1,2,Yes,1,4,2,16,1,121300.0,No
+ABC00417,48,Operations,Bachelors,4,24,22,Yes,1,1,3,78,3,149800.0,No
+ABC00418,52,Operations,High School,2,18,20,No,1,1,4,78,0,89900.0,No
+ABC00419,47,Operations,Bachelors,2,2,33,Yes,3,2,2,47,3,85600.0,No
+ABC00420,40,Operations,Masters,1,11,8,Yes,4,3,2,62,3,111000.0,No
+ABC00421,44,IT,Masters,3,4,25,Yes,2,3,3,39,0,112900.0,No
+ABC00422,32,Finance,Bachelors,2,1,9,Yes,1,2,1,14,1,83600.0,Yes
+ABC00423,55,Operations,Bachelors,2,21,34,Yes,4,3,2,5,3,127600.0,No
+ABC00424,53,Customer Support,Bachelors,3,6,23,No,4,1,3,62,1,99800.0,No
+ABC00425,53,Customer Support,Bachelors,3,12,5,Yes,2,4,3,7,0,92400.0,No
+ABC00426,57,Sales,Bachelors,1,24,25,Yes,1,1,1,31,1,83100.0,Yes
+ABC00427,32,Finance,Masters,3,11,8,Yes,3,1,4,44,1,123000.0,No
+ABC00428,23,IT,PhD,2,2,16,No,4,4,4,51,2,106700.0,No
+ABC00429,21,IT,PhD,2,0,15,No,2,2,4,78,2,120500.0,No
+ABC00430,53,Operations,PhD,1,20,1,No,3,1,2,12,3,120500.0,No
+ABC00431,30,IT,Bachelors,1,9,22,No,4,1,4,23,2,78000.0,No
+ABC00432,49,Operations,Bachelors,1,4,3,No,1,2,2,39,2,63900.0,Yes
+ABC00433,33,IT,Masters,3,12,38,No,4,1,2,13,2,137700.0,No
+ABC00434,32,IT,Masters,1,7,14,Yes,3,1,3,74,1,94700.0,No
+ABC00435,51,HR,High School,2,21,36,No,3,3,4,69,1,114100.0,No
+ABC00436,22,IT,Bachelors,4,0,18,No,1,2,4,61,2,129300.0,No
+ABC00437,55,HR,High School,1,7,41,No,1,1,4,60,0,65000.0,Yes
+ABC00438,43,Sales,Bachelors,2,22,18,Yes,2,1,2,0,2,117600.0,No
+ABC00439,37,Sales,Bachelors,3,16,3,No,1,4,2,65,0,115700.0,No
+ABC00440,46,Finance,Bachelors,5,19,10,Yes,2,4,4,31,1,149800.0,No
+ABC00441,28,Operations,High School,3,7,39,Yes,3,4,2,12,0,78600.0,Yes
+ABC00442,49,Sales,Bachelors,3,17,1,No,3,1,2,32,1,134700.0,No
+ABC00443,46,Sales,Masters,4,19,27,No,4,1,1,31,0,135500.0,No
+ABC00444,30,Operations,Bachelors,2,9,27,No,4,4,1,55,1,85800.0,No
+ABC00445,46,Customer Support,Masters,4,12,11,No,2,3,4,23,1,136100.0,No
+ABC00446,54,IT,Bachelors,1,12,5,Yes,1,3,4,3,2,102700.0,No
+ABC00447,27,Customer Support,Masters,4,6,7,Yes,1,3,1,22,3,122100.0,No
+ABC00448,24,IT,High School,2,3,19,Yes,4,3,2,28,3,92600.0,No
+ABC00449,31,IT,PhD,2,10,29,No,3,2,2,20,1,126900.0,No
+ABC00450,49,Operations,Bachelors,1,13,15,Yes,2,4,3,29,2,87500.0,No
+ABC00451,56,IT,PhD,3,23,35,Yes,3,1,4,19,3,165000.0,No
+ABC00452,45,Sales,Masters,1,15,37,No,3,4,4,15,3,104100.0,No
+ABC00453,41,Customer Support,Bachelors,4,14,12,Yes,1,3,4,66,2,121600.0,No
+ABC00454,56,Finance,High School,4,11,30,No,2,1,3,48,2,130500.0,No
+ABC00455,30,Operations,Bachelors,1,8,20,No,3,2,3,57,3,67500.0,No
+ABC00456,57,Customer Support,Bachelors,4,7,37,No,4,4,2,43,3,126800.0,No
+ABC00457,29,Finance,Bachelors,3,8,3,No,4,1,1,24,0,104600.0,No
+ABC00458,44,HR,Bachelors,3,22,9,No,1,1,1,22,0,123100.0,No
+ABC00459,55,Sales,Bachelors,2,17,41,Yes,4,3,1,58,1,97100.0,No
+ABC00460,55,IT,High School,1,12,39,No,4,3,2,0,3,85000.0,No
+ABC00461,56,IT,High School,1,17,26,No,3,4,1,14,2,101800.0,No
+ABC00462,38,Operations,Bachelors,2,14,2,Yes,4,2,3,51,2,91500.0,No
+ABC00463,59,Sales,High School,4,3,23,Yes,4,1,3,57,3,134100.0,No
+ABC00464,52,Finance,Bachelors,1,16,23,No,3,3,4,40,1,94300.0,No
+ABC00465,44,Sales,Bachelors,4,4,21,No,1,4,1,43,2,113000.0,Yes
+ABC00466,43,IT,Bachelors,2,21,16,No,1,3,3,3,3,129700.0,No
+ABC00467,52,Customer Support,Masters,2,15,9,No,2,4,4,76,3,121900.0,No
+ABC00468,57,Customer Support,Bachelors,3,8,13,Yes,4,3,1,67,1,113000.0,No
+ABC00469,32,Operations,Bachelors,4,9,28,No,3,2,1,6,3,108600.0,No
+ABC00470,33,Customer Support,Bachelors,2,12,27,No,2,1,3,45,2,97000.0,No
+ABC00471,43,Sales,Masters,2,17,17,Yes,1,3,4,8,0,115000.0,No
+ABC00472,45,Sales,Masters,2,16,38,No,1,1,4,32,1,111200.0,No
+ABC00473,55,IT,Masters,1,17,36,No,3,4,3,32,3,129700.0,No
+ABC00474,50,Operations,Masters,1,6,1,No,2,2,3,3,1,87100.0,No
+ABC00475,37,Operations,High School,2,3,18,Yes,2,1,3,64,3,80800.0,Yes
+ABC00476,40,IT,Bachelors,2,4,9,No,3,3,1,33,0,92000.0,No
+ABC00477,45,Sales,High School,3,22,13,No,3,1,3,78,1,109000.0,No
+ABC00478,42,Sales,PhD,2,15,40,No,2,1,3,63,3,123600.0,No
+ABC00479,33,IT,Masters,2,2,15,No,1,4,2,24,0,95300.0,No
+ABC00480,39,Finance,Masters,2,17,43,Yes,4,2,3,54,2,124500.0,No
+ABC00481,56,IT,Bachelors,3,22,44,No,1,2,3,8,3,152300.0,No
+ABC00482,32,Operations,Masters,4,11,4,No,3,1,1,16,0,118000.0,No
+ABC00483,39,Operations,Bachelors,2,13,33,Yes,2,1,4,20,0,88600.0,Yes
+ABC00484,32,Sales,High School,3,11,24,No,2,4,1,59,1,100300.0,No
+ABC00485,29,Sales,Bachelors,1,8,36,No,4,1,2,12,3,78500.0,Yes
+ABC00486,27,Finance,Bachelors,2,0,41,No,2,4,3,2,2,77100.0,No
+ABC00487,48,Operations,Bachelors,2,24,10,Yes,4,2,3,67,3,112200.0,No
+ABC00488,34,Sales,Masters,2,13,36,No,1,2,3,3,0,104200.0,No
+ABC00489,51,HR,High School,3,16,20,No,1,4,3,6,2,114100.0,No
+ABC00490,39,IT,Bachelors,4,18,41,No,2,1,3,25,0,141300.0,No
+ABC00491,36,IT,Bachelors,1,15,44,No,2,2,3,74,1,86500.0,No
+ABC00492,25,Operations,Bachelors,3,4,11,No,3,3,2,23,3,98500.0,No
+ABC00493,55,Operations,Masters,3,16,12,Yes,3,4,3,9,0,131900.0,No
+ABC00494,32,Operations,Masters,1,11,18,No,2,2,3,12,0,66000.0,No
+ABC00495,45,Sales,Masters,1,19,30,No,2,2,3,43,3,108100.0,No
+ABC00496,41,HR,Masters,2,18,44,No,1,2,2,38,2,104900.0,No
+ABC00497,56,Finance,Masters,1,20,37,Yes,2,3,3,18,0,110100.0,No
+ABC00498,43,HR,Bachelors,1,6,20,No,3,3,2,50,3,70100.0,Yes
+ABC00499,36,Finance,Masters,1,15,25,No,1,3,1,18,1,97100.0,No
+ABC00500,59,Operations,Bachelors,2,12,12,No,4,1,3,75,1,110400.0,No
+ABC00501,59,HR,Bachelors,3,17,21,Yes,3,4,4,51,3,126200.0,No
+ABC00502,34,Operations,High School,2,13,25,Yes,3,1,2,46,0,75800.0,Yes
+ABC00503,51,IT,Masters,5,13,11,No,1,3,1,29,3,164600.0,No
+ABC00504,25,IT,Masters,2,0,9,Yes,4,4,2,45,3,103400.0,No
+ABC00505,55,Sales,Bachelors,3,6,25,No,3,1,2,75,0,99600.0,Yes
+ABC00506,43,Operations,Masters,4,7,35,Yes,2,1,1,20,2,125500.0,No
+ABC00507,49,Customer Support,Masters,3,17,32,No,3,1,3,74,2,125600.0,No
+ABC00508,31,Operations,High School,2,8,14,No,1,3,3,47,1,76600.0,Yes
+ABC00509,38,Sales,Bachelors,3,0,1,No,1,2,2,61,2,101400.0,No
+ABC00510,32,Operations,Masters,1,11,17,No,1,4,1,57,3,90600.0,No
+ABC00511,29,Finance,Bachelors,2,8,25,No,3,3,3,17,0,83900.0,Yes
+ABC00512,30,IT,Bachelors,2,9,8,Yes,4,4,2,58,1,99800.0,No
+ABC00513,37,HR,High School,2,5,5,Yes,2,3,4,47,2,104000.0,No
+ABC00514,58,Sales,Bachelors,1,2,5,No,1,1,1,62,3,87600.0,No
+ABC00515,27,IT,Masters,5,6,41,No,4,1,4,11,1,149400.0,No
+ABC00516,33,Operations,Masters,3,4,35,No,2,2,4,33,0,108500.0,Yes
+ABC00517,29,Finance,Masters,2,1,19,No,1,2,2,60,2,97700.0,No
+ABC00518,47,IT,Masters,5,19,23,No,2,4,1,52,3,176200.0,No
+ABC00519,22,Sales,Masters,2,1,9,No,2,2,3,24,0,84800.0,No
+ABC00520,25,Sales,Masters,5,3,30,Yes,4,2,3,61,3,143000.0,No
+ABC00521,49,Sales,High School,2,9,16,No,2,4,2,3,3,89100.0,No
+ABC00522,57,Operations,Bachelors,1,9,33,No,1,3,3,12,3,94000.0,No
+ABC00523,58,Operations,High School,3,23,2,No,4,2,3,41,0,119400.0,No
+ABC00524,39,IT,Masters,3,18,14,No,3,3,4,48,1,143200.0,No
+ABC00525,28,IT,Bachelors,3,7,1,No,3,1,4,77,3,128100.0,No
+ABC00526,21,Operations,Bachelors,5,0,26,No,4,2,1,55,1,122200.0,No
+ABC00527,42,Sales,Bachelors,3,16,25,No,3,1,4,46,1,128100.0,No
+ABC00528,37,Sales,Masters,3,15,16,Yes,2,1,3,7,2,136800.0,No
+ABC00529,27,Customer Support,Masters,4,6,15,Yes,1,3,1,54,2,129200.0,No
+ABC00530,45,Operations,Bachelors,3,15,26,No,2,4,1,17,1,104200.0,No
+ABC00531,24,HR,Masters,2,2,44,No,4,2,2,34,2,88800.0,No
+ABC00532,56,Finance,Bachelors,4,15,16,No,1,3,4,31,2,152100.0,No
+ABC00533,26,IT,Bachelors,1,5,14,Yes,4,4,1,23,1,69000.0,Yes
+ABC00534,51,Customer Support,Masters,3,11,29,Yes,4,1,3,6,0,114800.0,No
+ABC00535,39,Operations,Bachelors,4,2,24,No,4,2,1,12,2,111800.0,No
+ABC00536,59,Customer Support,PhD,3,16,15,No,2,1,1,68,2,137000.0,No
+ABC00537,47,Sales,High School,3,20,19,No,1,1,2,41,0,112500.0,No
+ABC00538,30,Sales,High School,3,9,8,No,1,2,3,30,0,89400.0,No
+ABC00539,46,HR,Masters,2,10,34,Yes,1,4,3,73,0,103100.0,No
+ABC00540,39,Customer Support,High School,4,3,2,No,2,4,4,25,1,107100.0,No
+ABC00541,59,Finance,PhD,1,15,27,No,3,2,3,75,0,126900.0,No
+ABC00542,23,Sales,PhD,1,2,10,Yes,2,2,1,31,1,82200.0,No
+ABC00543,33,Operations,High School,1,8,35,No,2,3,3,51,3,67100.0,Yes
+ABC00544,48,Customer Support,Bachelors,2,5,23,Yes,4,3,3,19,3,97200.0,No
+ABC00545,40,Operations,Bachelors,2,19,8,Yes,1,1,1,39,0,76300.0,Yes
+ABC00546,48,Finance,Bachelors,4,19,28,Yes,1,2,2,58,0,137300.0,No
+ABC00547,28,Finance,High School,2,7,23,Yes,3,4,4,76,3,91700.0,No
+ABC00548,59,IT,Bachelors,2,1,4,No,3,1,4,13,1,103500.0,No
+ABC00549,21,Operations,Bachelors,1,0,14,No,4,1,2,43,1,64800.0,Yes
+ABC00550,23,Operations,Bachelors,2,2,42,No,1,1,1,47,0,79100.0,No
+ABC00551,33,Operations,PhD,3,5,29,No,3,1,4,42,0,122400.0,No
+ABC00552,48,Customer Support,Masters,1,2,1,Yes,3,4,2,15,0,63500.0,Yes
+ABC00553,45,Operations,Masters,1,19,4,Yes,1,1,2,34,3,100200.0,No
+ABC00554,53,Customer Support,Bachelors,1,5,32,No,2,2,2,52,2,71500.0,No
+ABC00555,58,Sales,Masters,1,6,33,No,3,3,4,33,0,93800.0,No
+ABC00556,26,Customer Support,Bachelors,2,0,26,Yes,1,4,4,2,1,77100.0,No
+ABC00557,52,Operations,Masters,1,22,17,No,3,2,4,67,2,106900.0,No
+ABC00558,41,Sales,PhD,3,0,39,No,4,2,4,4,1,116800.0,No
+ABC00559,36,Sales,Bachelors,4,4,23,No,3,2,3,9,2,115900.0,No
+ABC00560,41,Finance,Masters,2,5,32,No,1,3,2,51,3,103900.0,No
+ABC00561,31,HR,Masters,5,10,15,Yes,3,3,3,28,2,159500.0,No
+ABC00562,57,Finance,Masters,2,1,13,No,4,3,2,30,1,98700.0,No
+ABC00563,56,Sales,Masters,2,14,2,Yes,4,2,4,65,2,122000.0,No
+ABC00564,55,Sales,Bachelors,5,14,19,No,3,3,4,75,3,165100.0,No
+ABC00565,39,IT,Bachelors,1,12,24,Yes,3,1,3,68,1,92800.0,No
+ABC00566,40,Operations,High School,5,19,24,No,4,3,1,36,0,125800.0,No
+ABC00567,38,Operations,Masters,1,13,11,Yes,4,4,4,26,2,101900.0,No
+ABC00568,34,Customer Support,High School,2,13,22,No,2,2,1,32,1,81400.0,No
+ABC00569,35,Customer Support,Masters,1,6,15,No,2,2,2,67,2,66600.0,Yes
+ABC00570,51,Customer Support,High School,3,13,10,No,4,1,3,58,3,117900.0,No
+ABC00571,21,Finance,Bachelors,3,0,41,No,3,3,1,63,1,99000.0,No
+ABC00572,23,Operations,Bachelors,3,2,27,No,1,3,1,43,0,86800.0,Yes
+ABC00573,36,Operations,Masters,2,15,9,No,3,4,4,48,0,116600.0,No
+ABC00574,43,IT,High School,2,13,28,No,3,1,1,52,2,104100.0,No
+ABC00575,31,Finance,Bachelors,1,7,1,No,2,4,1,73,3,88000.0,No
+ABC00576,32,Sales,Bachelors,2,3,17,No,2,4,2,48,3,95400.0,No
+ABC00577,30,Operations,Bachelors,4,9,31,No,2,2,3,65,2,125800.0,No
+ABC00578,52,Sales,High School,2,23,44,No,4,2,4,62,1,99500.0,No
+ABC00579,36,IT,Masters,4,12,10,No,4,3,4,24,1,138200.0,No
+ABC00580,28,Customer Support,Bachelors,4,7,37,No,3,3,1,3,2,116400.0,Yes
+ABC00581,58,Finance,High School,2,24,29,No,3,4,2,50,1,120600.0,No
+ABC00582,32,Operations,Masters,3,11,18,No,1,3,1,10,1,107100.0,No
+ABC00583,44,Customer Support,PhD,1,17,38,Yes,3,4,1,16,1,95400.0,Yes
+ABC00584,48,HR,Bachelors,1,13,39,No,3,3,4,65,2,92600.0,No
+ABC00585,28,Sales,Bachelors,1,7,6,No,2,3,1,69,0,57600.0,Yes
+ABC00586,48,Operations,Masters,3,4,40,No,2,2,1,72,3,112700.0,No
+ABC00587,56,Operations,PhD,2,8,12,No,2,2,2,68,0,109300.0,No
+ABC00588,46,Sales,Masters,2,2,14,Yes,2,2,4,28,1,99900.0,Yes
+ABC00589,28,Customer Support,Bachelors,2,7,44,No,2,2,3,72,2,97600.0,No
+ABC00590,48,IT,Bachelors,2,19,10,No,1,1,2,71,3,117400.0,No
+ABC00591,48,Customer Support,Masters,3,21,20,No,1,2,2,19,1,128900.0,No
+ABC00592,57,Operations,Bachelors,3,9,15,Yes,1,1,2,26,3,107000.0,No
+ABC00593,56,Sales,Bachelors,1,21,31,No,2,2,4,7,3,113600.0,No
+ABC00594,47,IT,Masters,1,18,7,No,4,3,1,60,0,102100.0,No
+ABC00595,37,Sales,Masters,3,16,41,Yes,2,4,3,27,1,134900.0,No
+ABC00596,29,IT,Bachelors,2,2,10,No,2,3,4,69,3,85400.0,No
+ABC00597,53,Customer Support,Masters,3,10,10,Yes,1,3,1,2,0,111100.0,No
+ABC00598,40,IT,High School,2,10,39,No,2,1,2,68,2,97800.0,No
+ABC00599,33,IT,Bachelors,2,12,28,Yes,1,2,4,72,3,118800.0,No
+ABC00600,48,Sales,Masters,1,15,30,Yes,2,4,1,6,1,91000.0,No
+ABC00601,49,Sales,Bachelors,1,6,37,No,3,4,3,59,2,87100.0,Yes
+ABC00602,33,Sales,Bachelors,3,3,3,Yes,4,2,3,3,3,103800.0,Yes
+ABC00603,55,IT,PhD,2,22,43,Yes,4,1,1,4,3,147000.0,No
+ABC00604,26,Sales,Bachelors,3,5,15,No,1,1,4,10,1,109300.0,No
+ABC00605,38,Operations,Bachelors,4,11,21,No,3,1,2,14,3,121000.0,No
+ABC00606,25,IT,PhD,2,4,37,No,4,4,1,63,1,114200.0,No
+ABC00607,45,Operations,Masters,3,10,12,No,1,1,2,12,1,118500.0,No
+ABC00608,22,Sales,Masters,2,1,4,No,2,1,3,6,1,88300.0,No
+ABC00609,30,Operations,Masters,2,4,9,No,2,4,1,5,1,83300.0,No
+ABC00610,50,Customer Support,High School,3,14,39,Yes,3,4,3,55,3,98700.0,Yes
+ABC00611,25,HR,Masters,2,4,42,Yes,4,3,2,63,2,92800.0,No
+ABC00612,53,IT,Bachelors,3,10,28,No,2,4,2,49,2,121900.0,No
+ABC00613,21,Sales,Masters,1,0,23,No,1,2,1,29,0,69600.0,Yes
+ABC00614,38,Customer Support,Bachelors,3,1,40,No,2,4,1,21,1,92300.0,Yes
+ABC00615,52,HR,Bachelors,4,19,44,No,2,4,1,24,3,146300.0,No
+ABC00616,31,Operations,Bachelors,4,10,22,No,4,1,3,27,3,132400.0,No
+ABC00617,41,Customer Support,Bachelors,3,19,24,Yes,4,3,2,38,0,130000.0,No
+ABC00618,46,Operations,Masters,3,3,26,Yes,1,1,2,66,2,114500.0,No
+ABC00619,45,IT,Bachelors,2,21,30,No,3,3,3,4,3,120000.0,No
+ABC00620,42,IT,Bachelors,3,17,33,No,3,1,1,64,0,125500.0,No
+ABC00621,47,Operations,Bachelors,1,5,16,No,2,2,4,14,2,88700.0,No
+ABC00622,33,Customer Support,Bachelors,2,12,22,Yes,1,1,1,66,3,94600.0,No
+ABC00623,53,Finance,Masters,2,18,43,No,3,1,4,39,1,114800.0,Yes
+ABC00624,54,IT,Masters,5,10,18,No,3,2,4,68,0,166500.0,No
+ABC00625,55,Sales,Masters,2,23,7,Yes,2,2,3,76,3,128800.0,No
+ABC00626,21,Sales,Masters,2,0,26,No,1,4,2,42,0,75400.0,Yes
+ABC00627,41,Operations,Masters,2,7,8,No,3,1,2,0,0,94800.0,No
+ABC00628,26,Finance,Bachelors,3,5,6,No,4,2,2,21,0,91600.0,No
+ABC00629,48,Operations,Masters,3,4,30,No,4,2,2,61,1,116300.0,No
+ABC00630,37,IT,Masters,1,16,39,Yes,2,4,3,78,2,113200.0,No
+ABC00631,25,HR,Bachelors,2,4,23,No,2,3,4,25,2,87800.0,Yes
+ABC00632,51,Sales,Masters,4,17,32,Yes,2,2,2,17,3,148400.0,No
+ABC00633,25,HR,Masters,2,4,22,No,2,2,4,47,1,94200.0,No
+ABC00634,58,Sales,Bachelors,1,21,42,No,3,1,3,8,2,97000.0,No
+ABC00635,23,Customer Support,Bachelors,3,2,43,No,1,4,1,0,3,91300.0,No
+ABC00636,43,IT,Bachelors,4,2,9,No,2,1,3,8,3,114700.0,No
+ABC00637,57,Sales,PhD,1,8,31,No,2,3,2,22,0,101200.0,No
+ABC00638,57,Operations,Masters,3,2,7,No,3,4,1,44,1,108700.0,No
+ABC00639,30,Operations,Bachelors,4,9,9,No,2,1,3,1,2,126400.0,No
+ABC00640,30,Finance,PhD,2,9,13,No,2,2,3,13,1,121100.0,No
+ABC00641,39,Finance,Bachelors,5,11,3,No,1,2,4,37,1,155800.0,No
+ABC00642,37,IT,Bachelors,3,2,35,No,4,4,3,39,2,115300.0,No
+ABC00643,41,Sales,Masters,3,20,33,No,2,2,1,62,2,138000.0,No
+ABC00644,34,Sales,Masters,3,6,21,No,3,1,3,15,1,130600.0,No
+ABC00645,29,Sales,Bachelors,1,8,31,No,1,4,2,74,3,81800.0,No
+ABC00646,21,IT,Bachelors,1,0,34,Yes,3,2,4,5,1,75400.0,Yes
+ABC00647,33,Customer Support,Bachelors,2,10,32,Yes,1,2,1,2,2,93500.0,Yes
+ABC00648,24,Operations,Bachelors,1,3,35,Yes,1,3,1,13,1,56500.0,Yes
+ABC00649,21,Sales,Bachelors,2,0,15,No,2,3,3,65,2,81100.0,No
+ABC00650,52,IT,Bachelors,4,20,32,No,2,4,2,74,3,156100.0,No
+ABC00651,54,Finance,Bachelors,4,9,6,No,2,3,4,66,1,137400.0,No
+ABC00652,48,Finance,Bachelors,3,10,21,No,4,1,1,30,3,120300.0,No
+ABC00653,51,Customer Support,High School,4,14,33,No,4,2,4,32,1,128500.0,No
+ABC00654,28,Operations,Bachelors,3,7,32,No,3,2,3,0,1,90100.0,Yes
+ABC00655,59,Sales,Masters,2,15,19,Yes,2,2,2,43,2,130900.0,No
+ABC00656,46,Customer Support,Masters,1,21,33,Yes,4,4,3,14,0,100400.0,No
+ABC00657,54,HR,Bachelors,2,20,28,No,2,4,4,36,2,113800.0,No
+ABC00658,23,Operations,High School,3,2,31,No,4,3,3,26,1,94600.0,No
+ABC00659,32,Finance,Bachelors,2,11,21,No,4,2,4,47,0,100400.0,No
+ABC00660,21,Finance,Bachelors,3,0,34,Yes,1,2,1,26,0,91600.0,Yes
+ABC00661,25,IT,Bachelors,1,4,15,No,2,2,1,11,3,77500.0,No
+ABC00662,50,HR,Bachelors,3,12,14,Yes,2,2,3,66,1,123700.0,No
+ABC00663,50,Operations,Bachelors,4,4,19,Yes,4,2,1,29,2,116200.0,No
+ABC00664,37,IT,Masters,3,3,43,Yes,2,1,4,65,0,116300.0,Yes
+ABC00665,43,IT,Bachelors,5,13,15,Yes,4,2,1,6,0,152000.0,No
+ABC00666,35,Finance,Bachelors,4,7,6,No,2,1,2,33,2,134000.0,No
+ABC00667,57,Finance,Masters,4,8,9,Yes,1,2,2,31,2,154300.0,No
+ABC00668,41,Finance,Bachelors,5,20,37,No,2,4,3,38,0,159600.0,No
+ABC00669,34,Sales,High School,4,13,20,No,1,4,3,42,2,130200.0,No
+ABC00670,22,Finance,Bachelors,3,1,34,Yes,3,1,3,42,3,104700.0,No
+ABC00671,31,Finance,Bachelors,1,4,38,Yes,2,2,3,77,0,79800.0,No
+ABC00672,59,HR,Masters,2,20,26,No,2,4,4,2,3,135200.0,No
+ABC00673,58,Finance,Bachelors,2,17,18,Yes,2,4,4,45,1,121000.0,No
+ABC00674,54,Finance,Bachelors,2,0,28,No,1,2,2,31,3,87900.0,No
+ABC00675,58,IT,Bachelors,2,7,9,No,2,2,4,42,2,109500.0,No
+ABC00676,54,IT,High School,5,18,32,Yes,2,4,1,2,0,147000.0,No
+ABC00677,38,Sales,Masters,4,16,6,No,4,2,2,73,3,149800.0,No
+ABC00678,50,Operations,Masters,4,16,14,Yes,3,3,3,62,2,160100.0,No
+ABC00679,35,IT,Bachelors,2,10,28,No,1,2,3,39,2,111200.0,No
+ABC00680,47,Finance,Bachelors,1,1,24,No,4,4,4,17,3,81400.0,No
+ABC00681,54,Sales,Bachelors,1,5,13,Yes,1,4,2,66,0,71300.0,Yes
+ABC00682,58,Sales,Masters,2,21,43,Yes,4,1,4,61,3,141900.0,No
+ABC00683,53,HR,High School,1,13,12,No,3,3,4,9,1,78400.0,No
+ABC00684,44,Sales,High School,1,2,19,No,4,4,4,51,3,79700.0,Yes
+ABC00685,35,Sales,Bachelors,4,11,21,Yes,1,3,2,72,3,130400.0,No
+ABC00686,50,Sales,Bachelors,3,3,27,No,2,2,3,45,0,102100.0,Yes
+ABC00687,37,Sales,Bachelors,2,11,19,No,2,4,1,54,3,94700.0,No
+ABC00688,25,Sales,High School,1,4,24,No,3,1,3,45,2,46500.0,No
+ABC00689,49,Operations,Bachelors,2,1,26,Yes,1,4,2,74,0,82100.0,Yes
+ABC00690,24,Operations,Bachelors,1,1,28,No,1,1,3,59,2,58600.0,Yes
+ABC00691,30,Customer Support,Bachelors,5,9,18,No,1,3,3,25,0,119800.0,No
+ABC00692,37,IT,Masters,2,16,44,Yes,3,1,1,26,1,117300.0,No
+ABC00693,30,HR,High School,2,9,36,No,2,2,3,37,1,88500.0,No
+ABC00694,37,Sales,Bachelors,2,6,42,No,4,2,3,21,1,80600.0,No
+ABC00695,40,Operations,Masters,1,13,29,No,3,2,3,25,3,103100.0,No
+ABC00696,44,HR,Bachelors,3,11,17,Yes,4,4,4,68,1,109000.0,No
+ABC00697,25,Sales,Bachelors,3,4,4,No,2,2,2,34,0,98200.0,No
+ABC00698,54,IT,Masters,3,13,44,No,3,2,2,65,1,138300.0,No
+ABC00699,26,IT,Bachelors,1,5,29,No,2,4,1,72,0,70100.0,Yes
+ABC00700,22,IT,Masters,2,1,4,No,4,3,4,50,2,104000.0,No
+ABC00701,33,Sales,Bachelors,2,12,10,No,1,2,4,17,3,102900.0,No
+ABC00702,31,Operations,Bachelors,4,5,25,No,1,2,3,42,2,118400.0,No
+ABC00703,43,IT,Bachelors,2,17,31,Yes,4,4,2,11,2,115800.0,No
+ABC00704,36,Sales,Bachelors,2,15,3,No,1,3,1,2,1,90800.0,No
+ABC00705,51,HR,Masters,3,4,2,No,4,3,4,6,1,110000.0,No
+ABC00706,31,Finance,Masters,3,10,25,Yes,3,3,3,5,1,129900.0,No
+ABC00707,36,Customer Support,Masters,2,15,6,No,3,4,1,44,2,104500.0,No
+ABC00708,28,Sales,PhD,2,5,26,No,3,1,4,38,3,122600.0,No
+ABC00709,24,Finance,Masters,2,1,8,Yes,1,1,1,50,3,92900.0,No
+ABC00710,24,IT,Bachelors,4,3,35,Yes,2,2,4,8,2,121900.0,Yes
+ABC00711,45,Operations,Bachelors,2,14,27,Yes,1,2,1,22,3,93700.0,Yes
+ABC00712,23,Sales,Bachelors,5,2,25,Yes,1,2,4,11,2,131200.0,No
+ABC00713,52,Finance,High School,2,10,18,No,2,1,4,61,2,104000.0,No
+ABC00714,23,Operations,Masters,5,2,1,Yes,2,4,1,72,3,130500.0,No
+ABC00715,47,Operations,Bachelors,4,21,39,No,2,2,4,76,0,146700.0,No
+ABC00716,49,Sales,High School,2,23,3,No,2,4,4,39,0,102400.0,No
+ABC00717,52,Finance,High School,4,0,4,Yes,1,2,4,53,1,119100.0,No
+ABC00718,39,Finance,Bachelors,1,17,41,No,4,4,1,6,3,90300.0,No
+ABC00719,41,Finance,Bachelors,4,11,37,No,3,4,1,16,1,124000.0,No
+ABC00720,25,Operations,Bachelors,3,4,15,No,4,1,4,49,2,100800.0,No
+ABC00721,38,Sales,Bachelors,1,17,8,Yes,1,4,4,23,0,83800.0,No
+ABC00722,48,IT,Bachelors,3,10,38,Yes,2,3,1,1,3,123400.0,No
+ABC00723,42,IT,Masters,5,7,19,No,3,1,3,32,3,165100.0,No
+ABC00724,41,Sales,Bachelors,1,6,26,No,3,2,4,20,3,92100.0,No
+ABC00725,26,HR,High School,2,5,39,No,4,1,3,73,0,66800.0,Yes
+ABC00726,21,Customer Support,Bachelors,3,0,10,No,1,3,1,52,1,83800.0,Yes
+ABC00727,25,Finance,Bachelors,4,1,38,Yes,1,3,4,45,0,115300.0,Yes
+ABC00728,32,Finance,High School,2,10,14,No,1,4,3,44,1,80000.0,Yes
+ABC00729,46,Customer Support,Bachelors,1,21,41,Yes,3,3,1,8,2,81700.0,Yes
+ABC00730,54,Sales,High School,1,9,19,Yes,4,3,3,5,2,82300.0,Yes
+ABC00731,34,IT,Bachelors,2,2,30,No,3,3,2,50,1,82500.0,Yes
+ABC00732,46,Customer Support,Bachelors,2,19,5,Yes,3,3,1,34,2,100700.0,No
+ABC00733,47,Sales,Bachelors,5,9,31,No,2,2,2,52,2,130200.0,No
+ABC00734,29,HR,Masters,1,8,7,No,4,2,1,18,3,84200.0,No
+ABC00735,46,IT,Bachelors,3,13,19,Yes,2,1,1,68,3,113600.0,No
+ABC00736,42,IT,PhD,1,17,31,No,1,4,4,24,0,116400.0,No
+ABC00737,50,HR,Bachelors,1,23,39,No,3,2,2,10,0,90000.0,No
+ABC00738,37,Customer Support,Bachelors,2,7,24,No,4,3,2,73,0,81200.0,No
+ABC00739,46,Finance,Masters,2,9,34,Yes,1,4,2,16,3,114100.0,Yes
+ABC00740,56,Sales,Masters,3,21,23,No,4,2,1,35,0,124100.0,No
+ABC00741,21,Customer Support,Bachelors,4,0,40,No,3,1,2,20,0,90000.0,Yes
+ABC00742,28,Operations,Bachelors,3,7,6,No,4,3,2,17,3,94100.0,No
+ABC00743,55,Operations,High School,5,7,38,Yes,1,4,4,59,1,134100.0,No
+ABC00744,35,Operations,High School,4,3,41,No,2,2,3,17,3,111600.0,No
+ABC00745,42,IT,Bachelors,3,3,36,Yes,3,4,3,0,1,115700.0,No
+ABC00746,34,Operations,Bachelors,4,4,27,No,2,2,2,13,3,114000.0,Yes
+ABC00747,46,Customer Support,Bachelors,3,0,11,Yes,3,1,2,7,0,79400.0,Yes
+ABC00748,48,HR,High School,1,16,5,No,1,3,2,65,2,79700.0,No
+ABC00749,43,IT,Masters,3,1,17,No,3,1,2,50,2,120200.0,No
+ABC00750,34,Sales,Masters,1,7,7,Yes,2,3,3,78,1,79100.0,Yes
+ABC00751,44,Customer Support,PhD,3,6,27,Yes,3,3,4,59,1,120000.0,Yes
+ABC00752,22,Customer Support,Bachelors,3,1,15,No,1,4,1,33,1,87000.0,No
+ABC00753,46,Finance,Masters,1,24,13,No,3,2,2,35,2,116200.0,No
+ABC00754,34,Sales,Masters,1,4,11,No,2,1,2,61,1,86800.0,No
+ABC00755,27,Sales,Bachelors,4,1,26,No,1,1,3,0,3,128100.0,No
+ABC00756,23,Operations,Bachelors,3,2,22,Yes,2,1,2,41,3,87300.0,No
+ABC00757,43,Sales,PhD,1,7,28,No,3,4,4,0,2,103800.0,No
+ABC00758,38,Operations,Bachelors,3,6,24,No,4,4,4,53,3,111300.0,No
+ABC00759,58,Customer Support,Bachelors,3,6,29,No,2,4,2,46,1,105800.0,No
+ABC00760,55,IT,Bachelors,2,13,9,No,3,3,3,38,2,121700.0,No
+ABC00761,35,Sales,High School,5,14,42,No,4,1,2,29,1,138700.0,No
+ABC00762,45,Operations,Masters,3,17,4,No,4,3,2,6,3,137700.0,No
+ABC00763,57,Sales,Bachelors,2,5,18,Yes,1,1,3,21,1,96000.0,Yes
+ABC00764,48,Sales,Bachelors,4,3,43,No,4,1,4,49,2,122200.0,No
+ABC00765,30,Operations,Bachelors,4,9,16,No,2,2,1,44,1,125000.0,No
+ABC00766,59,Operations,Bachelors,1,17,33,Yes,2,1,2,73,3,96000.0,No
+ABC00767,37,Finance,Bachelors,1,11,29,No,4,4,4,71,0,84800.0,No
+ABC00768,59,Customer Support,Bachelors,1,15,39,No,3,4,2,9,2,81300.0,No
+ABC00769,42,Operations,Masters,3,21,10,No,2,4,1,13,1,127300.0,No
+ABC00770,46,Operations,High School,3,6,9,No,2,2,3,45,2,105500.0,No
+ABC00771,45,Finance,Bachelors,3,5,31,No,1,2,4,74,1,111500.0,No
+ABC00772,37,Operations,Masters,5,4,28,Yes,3,3,1,5,0,130600.0,Yes
+ABC00773,33,Sales,Bachelors,3,2,3,No,4,1,2,20,3,104800.0,No
+ABC00774,40,Customer Support,Masters,1,11,14,No,3,1,1,61,1,84500.0,Yes
+ABC00775,45,Sales,Masters,2,14,25,No,1,4,4,18,1,113700.0,No
+ABC00776,24,IT,Masters,2,3,15,No,1,4,3,61,0,95900.0,No
+ABC00777,30,IT,High School,2,9,2,Yes,3,4,2,52,2,89700.0,Yes
+ABC00778,23,Operations,High School,3,2,24,No,1,4,3,23,3,84200.0,No
+ABC00779,38,Operations,Bachelors,4,15,14,No,1,4,3,55,1,123300.0,No
+ABC00780,56,Finance,Bachelors,2,10,7,No,1,4,1,61,1,96500.0,No
+ABC00781,42,Sales,Masters,2,7,36,No,3,1,1,33,3,95200.0,No
+ABC00782,54,Operations,Masters,3,2,24,No,1,2,4,21,0,117600.0,No
+ABC00783,28,Finance,Masters,2,7,27,No,4,4,4,67,2,112000.0,No
+ABC00784,39,IT,Masters,1,6,37,No,4,1,3,56,3,101300.0,No
+ABC00785,57,Sales,Masters,2,22,38,No,2,4,4,9,2,139300.0,No
+ABC00786,26,Customer Support,Bachelors,1,5,30,No,4,3,3,65,0,66600.0,No
+ABC00787,46,Operations,Bachelors,5,13,27,No,2,3,2,7,0,132700.0,No
+ABC00788,54,Finance,Masters,1,1,39,No,3,1,3,37,3,102900.0,No
+ABC00789,26,Finance,Bachelors,2,5,15,No,1,2,4,61,1,99600.0,No
+ABC00790,57,IT,High School,2,18,26,Yes,4,3,4,27,0,104000.0,No
+ABC00791,53,IT,Bachelors,5,8,1,No,2,3,3,9,0,153400.0,No
+ABC00792,42,Customer Support,Masters,1,15,4,Yes,3,2,1,44,3,90300.0,No
+ABC00793,41,Sales,High School,1,18,29,No,2,3,3,64,3,95400.0,No
+ABC00794,26,HR,Masters,1,5,1,No,1,4,3,66,3,83300.0,No
+ABC00795,26,Sales,Masters,1,5,43,No,4,2,1,8,0,70100.0,Yes
+ABC00796,24,Operations,Bachelors,1,3,22,No,3,3,2,4,2,62200.0,No
+ABC00797,50,Operations,High School,3,12,11,Yes,2,2,1,9,0,91100.0,No
+ABC00798,31,Customer Support,Bachelors,1,9,10,No,3,4,4,11,3,71200.0,No
+ABC00799,50,Customer Support,Masters,1,24,17,No,2,3,1,57,1,85300.0,No
+ABC00800,51,Sales,Masters,4,19,36,No,2,1,4,20,1,146800.0,No
+ABC00801,44,Sales,Masters,2,13,26,Yes,1,3,4,20,3,135600.0,No
+ABC00802,29,HR,Bachelors,2,8,21,No,1,3,3,64,1,91700.0,No
+ABC00803,23,Operations,High School,2,2,13,No,2,4,3,2,0,78000.0,No
+ABC00804,51,Sales,High School,5,18,9,No,4,1,2,68,2,145000.0,No
+ABC00805,57,HR,Masters,1,6,11,No,3,1,4,63,0,86500.0,Yes
+ABC00806,56,IT,Bachelors,4,22,11,No,3,1,3,48,3,170000.0,No
+ABC00807,44,Customer Support,Bachelors,3,14,6,No,1,4,4,71,0,113300.0,No
+ABC00808,51,Operations,Bachelors,1,15,1,No,4,4,2,16,1,78600.0,No
+ABC00809,26,Operations,High School,5,5,6,No,2,4,4,72,0,122600.0,No
+ABC00810,22,IT,Bachelors,1,1,13,Yes,1,4,2,31,2,81300.0,No
+ABC00811,40,Finance,Bachelors,1,3,22,No,2,4,2,69,1,67000.0,No
+ABC00812,48,IT,Bachelors,4,18,31,No,2,1,2,20,2,149800.0,No
+ABC00813,31,IT,High School,3,10,22,Yes,1,2,3,6,2,103600.0,No
+ABC00814,24,Operations,Masters,3,3,37,Yes,4,4,1,6,2,109500.0,Yes
+ABC00815,35,Finance,Masters,1,14,27,No,3,2,1,26,0,93200.0,No
+ABC00816,26,Operations,Bachelors,2,5,14,Yes,1,3,3,7,0,83100.0,Yes
+ABC00817,50,Sales,Masters,3,0,5,No,4,3,4,72,0,110700.0,No
+ABC00818,58,HR,Bachelors,2,15,36,Yes,2,4,3,27,0,92200.0,No
+ABC00819,22,Sales,Bachelors,2,1,32,No,1,3,4,78,1,80200.0,Yes
+ABC00820,35,Sales,Masters,1,14,34,Yes,3,2,2,65,0,94900.0,No
+ABC00821,31,Customer Support,Masters,1,10,7,Yes,3,3,3,70,1,94800.0,No
+ABC00822,28,Operations,Masters,4,2,42,No,2,3,1,46,2,119000.0,No
+ABC00823,46,Finance,High School,2,4,10,No,1,2,4,9,1,86500.0,No
+ABC00824,25,Operations,High School,5,4,17,Yes,3,3,3,32,3,127000.0,No
+ABC00825,26,Finance,Masters,2,5,30,No,1,4,3,6,0,103300.0,No
+ABC00826,46,Sales,Bachelors,3,10,21,No,3,2,4,2,3,122600.0,No
+ABC00827,24,Operations,Bachelors,1,3,13,No,2,2,2,13,1,62200.0,Yes
+ABC00828,39,Customer Support,Masters,2,1,1,No,2,1,2,43,0,85200.0,No
+ABC00829,40,Finance,Masters,1,11,1,No,1,1,2,45,3,101500.0,No
+ABC00830,53,IT,Masters,2,21,33,No,4,2,2,60,0,127900.0,No
+ABC00831,40,Operations,Bachelors,2,5,38,No,4,2,4,35,1,100000.0,No
+ABC00832,32,Customer Support,Masters,5,10,25,Yes,2,1,1,12,3,131900.0,No
+ABC00833,21,IT,High School,3,0,26,No,3,4,3,15,1,92400.0,No
+ABC00834,46,Finance,High School,1,11,13,No,4,3,3,79,3,81900.0,Yes
+ABC00835,34,Finance,Bachelors,1,1,28,No,2,3,2,4,2,81500.0,No
+ABC00836,58,Sales,High School,1,8,33,No,3,3,4,37,2,81200.0,No
+ABC00837,57,Sales,Bachelors,2,14,37,No,3,2,1,49,2,107800.0,No
+ABC00838,31,HR,Masters,3,1,41,No,4,4,1,37,2,112600.0,No
+ABC00839,56,Sales,Bachelors,5,0,30,No,2,1,3,55,2,130800.0,No
+ABC00840,33,Operations,Bachelors,1,9,8,No,3,4,2,62,1,68500.0,No
+ABC00841,23,Customer Support,Bachelors,2,1,1,No,3,4,3,47,2,85500.0,No
+ABC00842,53,IT,Bachelors,2,11,12,No,1,3,3,58,1,102900.0,No
+ABC00843,26,Finance,Bachelors,3,5,5,No,1,1,1,76,2,101300.0,No
+ABC00844,30,IT,Masters,2,7,24,Yes,4,4,4,43,0,97800.0,Yes
+ABC00845,25,IT,Masters,3,4,6,No,1,1,1,54,2,124000.0,No
+ABC00846,43,Sales,Bachelors,3,21,25,No,2,2,3,54,0,119100.0,No
+ABC00847,30,Operations,Masters,1,0,1,No,4,3,2,0,1,72100.0,No
+ABC00848,22,Operations,High School,3,1,25,Yes,4,1,2,7,2,87900.0,No
+ABC00849,33,Operations,Bachelors,1,5,1,No,1,2,4,3,3,73100.0,Yes
+ABC00850,22,Finance,Masters,3,1,32,No,3,2,4,52,1,101400.0,No
+ABC00851,40,Operations,Bachelors,2,7,42,No,2,2,4,57,2,93100.0,No
+ABC00852,21,Operations,PhD,2,0,42,No,2,4,3,36,1,95400.0,No
+ABC00853,57,Operations,Bachelors,4,18,3,No,2,4,3,48,3,142800.0,No
+ABC00854,29,Sales,Masters,4,0,19,Yes,4,3,4,66,2,126400.0,No
+ABC00855,37,Operations,Bachelors,4,10,43,Yes,2,3,2,18,3,122100.0,No
+ABC00856,29,Sales,Bachelors,2,8,29,No,3,2,2,0,2,88100.0,No
+ABC00857,31,Sales,Bachelors,3,0,2,No,3,3,2,28,0,93100.0,No
+ABC00858,35,Sales,Masters,2,7,9,Yes,1,4,3,32,1,96500.0,Yes
+ABC00859,44,Operations,Bachelors,4,4,17,Yes,2,3,1,51,3,116900.0,No
+ABC00860,58,Finance,PhD,2,16,36,Yes,4,1,2,40,1,130200.0,Yes
+ABC00861,55,Operations,Bachelors,5,7,17,No,1,4,2,22,3,143700.0,No
+ABC00862,50,Operations,High School,5,24,12,Yes,3,2,2,4,1,153500.0,No
+ABC00863,51,IT,Bachelors,3,9,20,No,2,2,4,70,1,131000.0,No
+ABC00864,25,Sales,Bachelors,1,1,3,No,3,3,3,56,1,73900.0,Yes
+ABC00865,34,Customer Support,Masters,1,8,43,Yes,1,4,4,5,0,78800.0,Yes
+ABC00866,31,IT,Bachelors,4,10,4,No,3,2,4,48,2,135800.0,No
+ABC00867,29,Operations,Masters,1,8,17,Yes,2,2,1,21,0,66200.0,Yes
+ABC00868,54,IT,Bachelors,4,2,37,No,2,4,4,76,1,129500.0,No
+ABC00869,32,Sales,Bachelors,2,11,42,Yes,1,4,1,75,3,94500.0,No
+ABC00870,55,IT,Masters,2,6,15,No,2,2,4,3,1,113000.0,No
+ABC00871,55,Operations,Bachelors,4,14,33,No,3,3,2,71,2,128600.0,No
+ABC00872,21,Customer Support,Bachelors,3,0,16,Yes,3,3,3,63,0,74600.0,Yes
+ABC00873,42,Sales,PhD,2,21,11,Yes,4,3,4,36,2,129700.0,No
+ABC00874,49,IT,Masters,2,19,20,No,4,1,1,30,3,129300.0,No
+ABC00875,28,IT,Bachelors,2,7,38,Yes,4,4,3,36,2,100800.0,Yes
+ABC00876,31,Sales,Bachelors,3,10,24,No,3,2,1,44,0,103700.0,No
+ABC00877,57,Operations,Bachelors,1,2,16,No,3,1,2,7,3,74900.0,No
+ABC00878,34,Finance,Bachelors,5,13,30,No,1,3,4,39,2,153900.0,No
+ABC00879,50,Finance,Masters,4,13,34,No,4,1,3,4,0,152600.0,No
+ABC00880,55,Operations,Masters,2,23,1,No,3,2,2,27,0,116800.0,No
+ABC00881,41,Finance,Bachelors,3,1,24,No,1,2,4,8,1,104700.0,No
+ABC00882,57,Customer Support,Bachelors,2,13,24,No,3,4,4,1,2,97600.0,No
+ABC00883,25,Customer Support,Bachelors,2,4,9,Yes,1,3,1,62,3,84600.0,No
+ABC00884,39,Sales,Bachelors,5,10,22,Yes,4,3,1,50,1,126000.0,No
+ABC00885,34,Finance,High School,1,13,12,No,4,1,2,30,2,75800.0,No
+ABC00886,46,Operations,Bachelors,1,7,17,No,4,3,1,6,2,76200.0,No
+ABC00887,24,Customer Support,High School,2,3,25,No,3,1,2,29,3,61400.0,No
+ABC00888,45,IT,Bachelors,2,10,28,Yes,3,2,2,57,1,99800.0,Yes
+ABC00889,45,Sales,Bachelors,3,2,15,No,1,2,2,2,1,101700.0,No
+ABC00890,38,HR,Bachelors,3,16,30,Yes,2,2,1,50,3,114800.0,No
+ABC00891,28,Operations,High School,3,7,27,Yes,2,2,3,55,1,86400.0,No
+ABC00892,59,Customer Support,Bachelors,3,5,22,No,4,2,2,72,0,96100.0,No
+ABC00893,34,Customer Support,Bachelors,1,7,10,Yes,2,1,3,9,3,81000.0,No
+ABC00894,52,HR,Bachelors,2,21,31,No,4,2,4,60,2,127800.0,No
+ABC00895,58,Sales,High School,1,4,27,No,1,1,1,49,3,73500.0,No
+ABC00896,53,HR,Masters,1,7,12,No,2,2,1,46,0,69900.0,Yes
+ABC00897,43,Sales,Masters,2,1,31,No,2,1,3,0,3,106000.0,No
+ABC00898,35,Sales,Masters,1,14,32,Yes,4,1,4,56,2,97900.0,No
+ABC00899,53,Finance,Bachelors,1,11,32,Yes,1,1,4,37,2,90500.0,Yes
+ABC00900,45,Sales,Masters,1,16,41,No,2,3,2,61,3,98900.0,No
+ABC00901,37,Operations,Masters,5,0,35,No,2,1,1,78,3,131100.0,No
+ABC00902,53,Customer Support,High School,5,14,21,No,2,1,4,69,0,127200.0,No
+ABC00903,22,Operations,Bachelors,3,1,10,Yes,1,2,4,64,0,90400.0,No
+ABC00904,34,Operations,Masters,4,13,16,No,1,1,2,61,2,145800.0,No
+ABC00905,59,Customer Support,Bachelors,3,21,7,No,2,1,2,55,1,115300.0,No
+ABC00906,26,Sales,High School,3,5,4,No,4,4,3,66,1,104100.0,No
+ABC00907,26,Finance,Masters,1,5,27,No,4,3,1,16,1,82500.0,Yes
+ABC00908,23,Customer Support,Masters,3,0,25,Yes,2,4,4,7,1,100300.0,No
+ABC00909,27,Customer Support,Bachelors,3,6,31,Yes,1,2,3,59,2,97900.0,No
+ABC00910,28,HR,Bachelors,3,7,11,No,2,3,1,39,1,92500.0,No
+ABC00911,35,Operations,Bachelors,3,14,20,No,1,3,3,61,1,112600.0,Yes
+ABC00912,49,Operations,Masters,2,20,36,Yes,2,4,1,40,3,121300.0,No
+ABC00913,53,Finance,Bachelors,3,4,17,No,1,3,1,11,1,93600.0,No
+ABC00914,50,Customer Support,Bachelors,5,9,11,Yes,3,4,4,53,3,161100.0,No
+ABC00915,59,IT,Masters,2,5,30,Yes,4,1,1,10,2,101300.0,Yes
+ABC00916,47,Operations,Bachelors,3,23,35,No,3,4,2,59,3,125600.0,No
+ABC00917,56,Sales,Masters,2,18,41,Yes,4,3,4,67,0,105100.0,No
+ABC00918,49,Sales,Bachelors,3,24,38,No,1,3,2,77,3,132900.0,No
+ABC00919,58,HR,Bachelors,3,12,22,No,3,2,3,45,1,114500.0,No
+ABC00920,53,Operations,Bachelors,1,0,43,Yes,4,2,3,37,3,72300.0,No
+ABC00921,57,Customer Support,Bachelors,3,19,27,Yes,2,2,1,60,3,124200.0,No
+ABC00922,47,Finance,Bachelors,1,24,37,No,1,2,1,16,2,101900.0,No
+ABC00923,53,Sales,Bachelors,3,14,35,Yes,1,3,2,65,2,123900.0,No
+ABC00924,24,IT,Masters,2,3,4,No,2,2,2,71,1,91400.0,No
+ABC00925,42,Operations,PhD,3,7,16,No,2,4,2,35,0,121500.0,Yes
+ABC00926,22,IT,PhD,1,1,16,No,4,1,3,73,0,88500.0,Yes
+ABC00927,30,Finance,Bachelors,3,8,21,No,1,3,2,6,3,112400.0,No
+ABC00928,25,Finance,Bachelors,1,4,26,Yes,4,2,4,15,0,75900.0,Yes
+ABC00929,30,Finance,Bachelors,4,8,36,Yes,2,3,4,13,2,128600.0,No
+ABC00930,53,Operations,Masters,4,2,19,Yes,1,2,3,79,1,126200.0,Yes
+ABC00931,58,Sales,Bachelors,5,10,17,No,2,3,2,24,1,137500.0,No
+ABC00932,33,Finance,PhD,3,11,26,No,4,2,2,3,2,144700.0,No
+ABC00933,51,Sales,Bachelors,3,9,22,Yes,4,1,1,28,1,113000.0,No
+ABC00934,56,Operations,PhD,1,24,28,Yes,4,2,4,55,3,130200.0,No
+ABC00935,44,Sales,Masters,2,16,1,No,1,4,3,5,1,113400.0,No
+ABC00936,35,HR,Masters,2,14,44,No,2,3,2,0,0,101700.0,No
+ABC00937,49,Sales,Bachelors,3,24,36,No,2,3,1,38,1,132400.0,No
+ABC00938,28,HR,High School,4,7,43,No,4,4,3,0,1,113200.0,No
+ABC00939,25,Customer Support,Bachelors,1,4,37,No,4,4,3,62,2,73300.0,No
+ABC00940,49,Sales,Bachelors,4,3,2,No,4,1,4,56,2,124200.0,No
+ABC00941,24,Sales,High School,3,3,17,No,4,3,2,66,0,87700.0,No
+ABC00942,32,Operations,Bachelors,3,11,40,No,3,1,3,64,2,116400.0,No
+ABC00943,22,Customer Support,Bachelors,1,1,38,No,3,3,1,64,0,45700.0,Yes
+ABC00944,47,Sales,Bachelors,1,6,21,Yes,3,3,1,20,3,73900.0,No
+ABC00945,51,Operations,Bachelors,2,23,9,Yes,4,1,3,29,0,110100.0,No
+ABC00946,56,Sales,High School,3,7,13,No,4,3,1,32,1,92300.0,No
+ABC00947,56,Finance,PhD,1,0,11,No,2,3,3,47,0,87400.0,No
+ABC00948,46,Operations,Bachelors,2,23,16,No,1,1,1,21,3,117900.0,No
+ABC00949,47,Finance,Bachelors,4,21,16,Yes,2,2,3,53,1,154900.0,No
+ABC00950,25,Customer Support,Bachelors,4,3,2,No,3,1,3,3,0,97500.0,No
+ABC00951,40,Operations,Masters,4,11,42,No,2,3,3,54,2,128100.0,No
+ABC00952,31,Finance,High School,2,10,44,Yes,4,4,1,43,2,84900.0,No
+ABC00953,30,Sales,Bachelors,2,2,8,No,3,2,3,11,2,94400.0,No
+ABC00954,58,Customer Support,Bachelors,3,12,43,No,3,4,4,78,0,110300.0,No
+ABC00955,26,HR,Bachelors,2,5,42,No,1,2,3,73,0,81900.0,Yes
+ABC00956,28,Customer Support,Bachelors,1,5,13,No,1,4,2,51,3,71300.0,No
+ABC00957,43,Sales,Masters,1,10,17,No,3,2,2,75,1,90900.0,No
+ABC00958,46,Sales,PhD,2,22,39,No,3,1,4,64,1,146200.0,No
+ABC00959,32,Operations,High School,1,3,24,No,2,2,3,64,1,54400.0,Yes
+ABC00960,46,Operations,Bachelors,2,19,3,No,3,2,2,9,1,102000.0,No
+ABC00961,33,Operations,Bachelors,1,12,30,No,4,2,3,17,0,76200.0,Yes
+ABC00962,38,Operations,Bachelors,1,6,13,No,2,3,2,46,0,66300.0,No
+ABC00963,45,Sales,Bachelors,3,21,19,Yes,4,4,1,65,3,119900.0,No
+ABC00964,53,Operations,Bachelors,3,10,7,No,4,1,1,48,1,97600.0,No
+ABC00965,32,Finance,PhD,3,11,9,No,4,4,4,71,0,127800.0,No
+ABC00966,56,IT,Masters,1,0,19,No,3,4,4,21,0,96200.0,No
+ABC00967,24,Sales,High School,1,3,40,No,1,1,3,25,0,52400.0,Yes
+ABC00968,25,Operations,Bachelors,3,4,22,Yes,1,3,4,8,0,98100.0,Yes
+ABC00969,57,Sales,Bachelors,3,6,18,No,4,2,3,20,1,112300.0,No
+ABC00970,28,Customer Support,Bachelors,2,7,23,Yes,3,3,1,62,1,72500.0,No
+ABC00971,48,Sales,Bachelors,2,6,2,Yes,2,3,1,5,0,80400.0,Yes
+ABC00972,51,HR,Bachelors,4,9,11,No,4,2,2,13,2,127900.0,No
+ABC00973,29,Customer Support,Masters,2,8,31,Yes,2,4,3,32,3,101300.0,No
+ABC00974,49,Finance,Masters,2,7,33,No,2,2,1,70,1,108600.0,No
+ABC00975,34,HR,Bachelors,3,8,14,No,3,1,1,23,1,97600.0,Yes
+ABC00976,42,Finance,Masters,2,8,16,No,3,2,3,72,2,107600.0,No
+ABC00977,31,Customer Support,Bachelors,2,1,11,No,1,4,2,74,1,75200.0,No
+ABC00978,43,IT,Bachelors,2,12,33,Yes,1,3,2,50,2,116800.0,No
+ABC00979,21,IT,Bachelors,3,0,7,Yes,3,3,2,1,2,91000.0,No
+ABC00980,57,IT,High School,1,22,31,No,4,2,2,14,0,90700.0,No
+ABC00981,41,IT,Bachelors,1,20,14,No,1,1,1,34,1,100300.0,No
+ABC00982,46,IT,Bachelors,2,3,28,No,2,4,3,35,3,105200.0,No
+ABC00983,56,Operations,Masters,4,24,43,No,4,3,3,38,2,160700.0,No
+ABC00984,43,Sales,Bachelors,1,22,16,Yes,2,2,1,3,3,95200.0,No
+ABC00985,21,Sales,Bachelors,5,0,19,No,3,1,1,63,0,106100.0,No
+ABC00986,35,Sales,Bachelors,2,14,17,No,2,1,1,73,1,104800.0,No
+ABC00987,41,Operations,Masters,5,1,26,Yes,4,3,4,5,0,143000.0,No
+ABC00988,29,Sales,High School,5,8,6,Yes,3,3,3,56,0,124700.0,No
+ABC00989,29,IT,PhD,2,8,43,Yes,4,4,3,29,3,121800.0,Yes
+ABC00990,30,Operations,Masters,1,9,9,Yes,2,1,3,73,3,86400.0,No
+ABC00991,46,Finance,Bachelors,1,7,17,No,4,4,2,66,2,86600.0,No
+ABC00992,55,Sales,Masters,1,14,31,Yes,3,1,1,14,1,94300.0,No
+ABC00993,45,Operations,High School,3,0,12,Yes,2,1,1,16,0,80900.0,Yes
+ABC00994,46,Finance,Bachelors,1,19,23,Yes,2,2,1,17,2,106800.0,No
+ABC00995,31,IT,Masters,2,9,5,No,1,3,4,18,2,121600.0,No
+ABC00996,58,Sales,High School,2,11,43,No,1,1,3,75,0,85100.0,Yes
+ABC00997,22,Customer Support,Bachelors,4,1,36,Yes,4,4,1,68,0,96800.0,Yes
+ABC00998,27,Customer Support,Bachelors,1,6,36,No,1,3,4,23,2,69200.0,No
+ABC00999,38,Operations,Bachelors,1,17,3,Yes,1,4,1,47,0,79100.0,No
+ABC01000,47,Operations,PhD,1,7,24,No,1,3,2,29,0,92100.0,No
+ABC01001,54,Customer Support,High School,4,15,17,Yes,1,3,3,14,3,146500.0,No
+ABC01002,47,IT,Masters,3,13,39,No,3,1,4,46,1,140300.0,No
+ABC01003,37,IT,Bachelors,1,16,26,No,3,2,1,43,2,93000.0,No
+ABC01004,44,Finance,Masters,1,12,4,No,1,1,3,26,0,108200.0,No
+ABC01005,45,Operations,Bachelors,1,22,12,Yes,4,3,4,63,2,100100.0,No
+ABC01006,27,Operations,Bachelors,1,6,1,No,3,1,3,40,1,59700.0,Yes
+ABC01007,26,Operations,Masters,5,5,21,No,1,1,3,67,2,139600.0,No
+ABC01008,44,Finance,Bachelors,3,4,19,Yes,3,3,2,4,2,114700.0,No
+ABC01009,53,IT,Bachelors,2,15,21,No,2,3,3,52,2,120300.0,No
+ABC01010,49,HR,Bachelors,4,10,18,Yes,3,1,4,7,3,141700.0,No
+ABC01011,42,Operations,Masters,1,21,43,Yes,3,1,3,21,1,102200.0,No
+ABC01012,46,Operations,Bachelors,3,4,3,Yes,4,1,4,6,1,105100.0,No
+ABC01013,48,IT,PhD,4,12,44,No,3,4,3,21,2,155900.0,No
+ABC01014,41,Finance,Bachelors,2,10,32,No,4,1,1,45,2,109000.0,No
+ABC01015,27,IT,Bachelors,3,6,10,No,2,4,2,29,1,106500.0,No
+ABC01016,37,Sales,Masters,1,16,40,Yes,1,2,1,15,0,83900.0,Yes
+ABC01017,40,Customer Support,Masters,1,2,15,No,4,4,2,78,3,95200.0,No
+ABC01018,40,Sales,Masters,1,14,5,Yes,3,1,4,4,1,108900.0,No
+ABC01019,42,Customer Support,PhD,2,6,4,No,3,2,2,66,2,106100.0,No
+ABC01020,48,Sales,Bachelors,3,6,28,No,4,4,3,22,0,94800.0,No
+ABC01021,27,HR,High School,5,5,4,Yes,2,4,3,60,0,114300.0,Yes
+ABC01022,21,Sales,High School,3,0,15,No,1,3,1,73,0,87300.0,Yes
+ABC01023,52,Customer Support,Masters,4,12,17,No,3,2,2,4,3,141100.0,No
+ABC01024,33,Operations,Masters,4,6,44,No,2,3,4,22,3,126000.0,No
+ABC01025,50,Sales,Bachelors,1,4,3,No,1,2,4,78,1,84500.0,No
+ABC01026,43,Operations,Bachelors,2,22,10,No,1,4,3,24,1,106500.0,No
+ABC01027,39,Sales,High School,1,17,42,No,3,3,4,7,1,80200.0,No
+ABC01028,52,Sales,Masters,3,21,23,No,4,1,3,20,1,134900.0,Yes
+ABC01029,50,Customer Support,Bachelors,5,7,18,Yes,3,4,3,1,2,145700.0,No
+ABC01030,49,Operations,Bachelors,1,16,1,No,3,2,3,21,3,96700.0,No
+ABC01031,49,Finance,Bachelors,3,19,35,No,3,2,1,71,0,113100.0,No
+ABC01032,50,IT,Masters,3,0,31,Yes,2,3,1,71,2,120700.0,No
+ABC01033,36,HR,Masters,3,13,44,Yes,4,3,3,67,1,122500.0,No
+ABC01034,39,Sales,Bachelors,2,16,1,No,2,2,3,63,1,100900.0,No
+ABC01035,38,Operations,Bachelors,2,9,3,No,3,4,3,18,2,91500.0,No
+ABC01036,21,Finance,Bachelors,1,0,3,No,4,3,4,52,0,63100.0,Yes
+ABC01037,34,Customer Support,Masters,1,13,37,Yes,1,1,3,51,3,89300.0,Yes
+ABC01038,22,Operations,PhD,1,1,19,No,4,2,3,46,3,91000.0,Yes
+ABC01039,48,Operations,Bachelors,3,15,29,Yes,3,1,2,53,0,108700.0,No
+ABC01040,50,IT,High School,1,7,25,No,4,2,2,43,3,87700.0,Yes
+ABC01041,58,Customer Support,High School,4,22,33,No,1,1,2,6,1,125100.0,No
+ABC01042,24,Operations,Bachelors,2,3,36,Yes,1,4,2,0,1,81000.0,Yes
+ABC01043,21,Operations,Masters,3,0,29,No,4,2,3,62,1,107700.0,No
+ABC01044,28,Customer Support,High School,2,7,26,No,1,4,2,38,1,72800.0,Yes
+ABC01045,49,Sales,Bachelors,2,19,4,No,2,3,4,18,0,112600.0,No
+ABC01046,59,Sales,Bachelors,5,15,14,No,4,2,4,30,3,165100.0,No
+ABC01047,23,IT,High School,1,2,27,No,1,4,2,76,3,67300.0,Yes
+ABC01048,52,Customer Support,Bachelors,1,15,33,No,1,1,1,23,2,86500.0,No
+ABC01049,30,Operations,Bachelors,3,9,22,Yes,4,4,4,68,0,89200.0,Yes
+ABC01050,30,Operations,Bachelors,1,9,3,Yes,2,2,4,64,3,65800.0,No
+ABC01051,39,Operations,Masters,1,18,23,Yes,4,4,2,32,3,98300.0,No
+ABC01052,54,IT,Bachelors,2,7,21,No,1,1,2,58,2,109400.0,No
+ABC01053,53,IT,High School,1,5,41,No,4,1,3,32,1,78900.0,Yes
+ABC01054,43,Operations,PhD,3,5,23,No,1,1,4,31,3,137400.0,No
+ABC01055,48,Operations,Bachelors,1,20,4,No,3,3,2,58,1,82200.0,No
+ABC01056,52,IT,Masters,4,8,21,No,4,2,2,40,2,151500.0,No
+ABC01057,27,IT,High School,3,3,37,No,4,1,3,11,3,115000.0,No
+ABC01058,49,IT,High School,3,11,43,No,1,3,4,72,1,113700.0,No
+ABC01059,28,Customer Support,High School,3,7,31,No,1,1,2,10,0,89400.0,No
+ABC01060,21,Sales,Bachelors,4,0,21,No,1,4,3,18,1,108900.0,Yes
+ABC01061,23,Finance,Bachelors,1,2,26,Yes,1,2,2,53,1,72000.0,Yes
+ABC01062,44,Finance,PhD,4,14,41,No,4,4,1,56,1,164300.0,No
+ABC01063,43,Operations,Bachelors,3,8,35,Yes,1,3,1,41,1,103000.0,No
+ABC01064,28,Operations,Bachelors,3,6,38,Yes,4,4,2,70,0,98200.0,No
+ABC01065,57,Operations,Bachelors,2,9,24,No,2,4,4,30,2,94300.0,No
+ABC01066,23,Sales,High School,1,2,11,No,4,1,1,51,1,58200.0,No
+ABC01067,53,Operations,Bachelors,2,11,41,No,1,4,3,1,1,107300.0,No
+ABC01068,48,Sales,Bachelors,3,24,29,No,1,1,2,37,3,128700.0,No
+ABC01069,28,Operations,Masters,1,6,3,No,2,1,3,31,3,83200.0,No
+ABC01070,54,Finance,PhD,3,17,1,Yes,4,2,1,9,0,147200.0,No
+ABC01071,55,Operations,Bachelors,1,14,19,No,2,3,4,7,0,89000.0,Yes
+ABC01072,52,Finance,Bachelors,1,5,22,No,4,3,3,74,0,72900.0,No
+ABC01073,44,IT,Masters,1,11,14,No,1,3,1,19,3,103900.0,No
+ABC01074,34,Customer Support,Masters,1,10,14,No,4,1,1,19,1,76700.0,No
+ABC01075,52,IT,Bachelors,2,19,44,No,1,3,1,8,3,114100.0,No
+ABC01076,36,Sales,PhD,1,2,16,Yes,1,1,3,71,2,103800.0,Yes
+ABC01077,24,HR,High School,5,1,33,No,3,2,1,14,0,107900.0,No
+ABC01078,57,Sales,PhD,2,5,13,No,3,3,2,62,0,118000.0,Yes
+ABC01079,41,Operations,High School,1,20,38,No,4,1,1,20,0,66800.0,Yes
+ABC01080,34,Customer Support,Bachelors,3,13,12,Yes,1,3,2,4,2,111300.0,No
+ABC01081,51,Sales,Masters,4,24,38,No,2,3,4,34,1,165500.0,No
+ABC01082,38,Operations,Bachelors,3,4,39,No,1,2,2,67,1,95700.0,Yes
+ABC01083,27,HR,Bachelors,1,6,33,Yes,2,4,4,47,1,70300.0,Yes
+ABC01084,30,Customer Support,Bachelors,4,9,33,No,4,3,4,79,0,108000.0,No
+ABC01085,27,HR,PhD,3,6,29,Yes,4,2,2,61,1,115100.0,No
+ABC01086,53,Operations,Masters,1,24,5,No,2,3,4,34,3,114000.0,No
+ABC01087,43,HR,Masters,1,19,6,No,2,3,2,69,0,89800.0,Yes
+ABC01088,41,Operations,Bachelors,2,20,31,No,1,3,3,20,2,103200.0,No
+ABC01089,39,HR,Masters,1,10,16,No,4,3,4,79,2,95600.0,No
+ABC01090,39,Customer Support,Bachelors,4,9,31,Yes,1,4,2,38,1,118200.0,Yes
+ABC01091,56,HR,Bachelors,2,23,25,No,2,4,4,33,0,120900.0,No
+ABC01092,49,Customer Support,Masters,4,24,33,No,3,3,1,14,3,146400.0,No
+ABC01093,38,Sales,Bachelors,2,11,13,Yes,3,3,2,5,3,100700.0,No
+ABC01094,22,HR,High School,1,1,10,No,3,2,1,65,0,44800.0,Yes
+ABC01095,21,Finance,High School,1,0,24,No,2,2,4,55,1,60400.0,Yes
+ABC01096,25,Sales,High School,2,4,10,Yes,1,1,4,48,2,80400.0,Yes
+ABC01097,40,Customer Support,Masters,3,4,41,Yes,4,4,3,0,2,110100.0,Yes
+ABC01098,31,Operations,Bachelors,3,10,31,Yes,2,3,2,64,3,109800.0,No
+ABC01099,22,HR,Masters,1,1,13,No,3,4,1,27,3,72300.0,No
+ABC01100,23,Finance,Bachelors,1,2,3,No,1,2,3,19,3,85200.0,No
+ABC01101,43,HR,Bachelors,1,21,34,No,4,4,4,47,2,88900.0,No
+ABC01102,32,Sales,Bachelors,3,11,28,No,4,4,4,71,3,125100.0,No
+ABC01103,40,IT,Masters,1,19,19,No,2,3,3,64,2,111100.0,No
+ABC01104,25,IT,Bachelors,2,4,23,No,2,3,1,50,2,89700.0,No
+ABC01105,57,Customer Support,PhD,3,19,32,Yes,4,2,4,42,1,145800.0,No
+ABC01106,58,Operations,Masters,5,18,13,No,4,3,4,48,1,169200.0,No
+ABC01107,50,Operations,Bachelors,2,13,33,No,3,2,2,24,1,91300.0,No
+ABC01108,29,Finance,Bachelors,1,6,34,No,4,2,3,73,3,80500.0,Yes
+ABC01109,54,Operations,PhD,3,4,33,No,2,1,4,75,2,135000.0,No
+ABC01110,55,IT,Masters,3,17,5,No,1,1,1,40,3,133200.0,No
+ABC01111,42,IT,High School,2,1,3,No,3,1,2,70,2,86600.0,No
+ABC01112,44,Customer Support,Bachelors,4,10,7,Yes,3,4,3,63,1,116900.0,No
+ABC01113,37,IT,Masters,4,16,24,No,4,1,1,60,1,139800.0,No
+ABC01114,30,IT,Masters,1,7,22,Yes,1,3,4,11,3,91600.0,No
+ABC01115,50,Sales,Bachelors,1,0,23,No,3,3,3,68,2,80100.0,Yes
+ABC01116,43,Sales,Masters,2,21,30,Yes,2,1,3,13,3,127600.0,No
+ABC01117,52,Sales,PhD,3,11,18,Yes,4,4,1,33,0,126300.0,No
+ABC01118,37,Sales,Bachelors,1,1,32,No,2,2,3,47,3,74800.0,Yes
+ABC01119,37,IT,Masters,3,16,7,No,4,4,1,60,1,124200.0,No
+ABC01120,34,Finance,High School,3,6,33,Yes,3,4,4,34,2,104200.0,No
+ABC01121,29,IT,High School,1,8,5,No,4,2,2,64,2,75100.0,Yes
+ABC01122,22,Finance,High School,3,1,28,No,1,2,1,58,3,93700.0,No
+ABC01123,45,Customer Support,High School,5,22,8,Yes,2,2,2,35,1,143300.0,No
+ABC01124,59,Finance,Masters,1,13,15,No,1,3,3,78,0,92000.0,Yes
+ABC01125,29,HR,High School,2,8,4,No,2,2,1,18,3,84200.0,No
+ABC01126,42,IT,Bachelors,2,6,34,No,2,2,4,41,2,95400.0,No
+ABC01127,24,Operations,High School,4,3,5,No,4,4,1,68,1,98900.0,No
+ABC01128,46,Sales,Bachelors,5,24,33,No,3,4,1,18,2,156800.0,No
+ABC01129,49,Operations,High School,2,2,5,No,3,1,1,38,2,82100.0,No
+ABC01130,54,Customer Support,Masters,3,5,38,Yes,1,4,2,68,2,110200.0,No
+ABC01131,43,Finance,High School,2,19,34,Yes,4,2,2,51,2,110400.0,No
+ABC01132,57,Sales,Masters,2,1,26,No,3,3,3,11,0,90800.0,No
+ABC01133,31,Operations,Masters,1,10,1,No,2,4,3,46,1,85400.0,No
+ABC01134,26,Finance,High School,1,5,4,No,2,4,3,75,3,62100.0,No
+ABC01135,38,Sales,Masters,1,11,39,Yes,4,2,3,35,1,97400.0,No
+ABC01136,41,Operations,High School,2,16,26,Yes,1,4,1,62,1,97400.0,No
+ABC01137,56,Customer Support,Bachelors,1,9,33,No,4,4,2,75,1,72400.0,No
+ABC01138,58,Operations,High School,4,2,33,No,1,2,2,50,3,114500.0,No
+ABC01139,54,Sales,Bachelors,1,19,8,Yes,4,4,2,42,1,96700.0,No
+ABC01140,37,IT,Bachelors,1,16,20,No,2,3,2,33,3,90000.0,No
+ABC01141,57,Customer Support,Masters,2,12,16,No,4,1,3,48,3,109500.0,No
+ABC01142,45,IT,Bachelors,3,11,21,No,3,4,1,17,0,109300.0,No
+ABC01143,58,Operations,Masters,1,16,26,No,3,3,2,60,2,115000.0,No
+ABC01144,32,Operations,Bachelors,2,3,23,No,4,4,4,56,3,96500.0,No
+ABC01145,43,Operations,Masters,5,22,18,No,1,1,1,4,2,159500.0,No
+ABC01146,42,IT,Bachelors,1,9,31,No,1,2,4,23,1,96100.0,No
+ABC01147,41,Finance,High School,2,10,42,No,2,1,1,63,2,93100.0,No
+ABC01148,47,Sales,Bachelors,4,5,12,No,2,4,1,58,2,124200.0,No
+ABC01149,51,Customer Support,Bachelors,1,5,1,No,1,1,1,37,2,64500.0,No
+ABC01150,26,Sales,Bachelors,2,5,42,No,4,1,4,32,1,97000.0,No
+ABC01151,47,Operations,Masters,2,14,9,No,2,2,2,9,1,102300.0,Yes
+ABC01152,54,Sales,High School,2,1,3,No,1,4,2,36,3,81100.0,No
+ABC01153,32,Operations,Masters,1,3,26,No,1,1,4,10,3,88700.0,No
+ABC01154,27,IT,Masters,1,4,9,Yes,4,1,2,23,0,85000.0,No
+ABC01155,30,IT,Masters,2,9,42,Yes,3,2,3,70,1,110400.0,Yes
+ABC01156,37,Sales,Bachelors,1,7,16,No,1,3,2,20,0,76500.0,No
+ABC01157,46,IT,Bachelors,3,7,24,No,2,4,3,19,1,110700.0,No
+ABC01158,41,Sales,Masters,2,20,14,No,4,3,3,9,2,132900.0,No
+ABC01159,48,Finance,Masters,2,11,3,No,4,3,3,46,0,109100.0,No
+ABC01160,22,Customer Support,Bachelors,4,1,34,No,4,2,4,46,0,103300.0,No
+ABC01161,21,Operations,High School,3,0,33,No,3,2,2,14,0,87500.0,Yes
+ABC01162,56,IT,Bachelors,1,18,24,Yes,3,4,2,43,1,97100.0,No
+ABC01163,46,Operations,Bachelors,5,2,9,No,2,3,4,61,3,144300.0,No
+ABC01164,49,Sales,Masters,1,17,13,No,2,1,4,5,0,100800.0,No
+ABC01165,41,Operations,High School,1,20,2,Yes,4,3,2,65,3,80200.0,Yes
+ABC01166,31,Finance,Bachelors,3,10,7,No,2,2,4,75,1,114000.0,No
+ABC01167,31,IT,Bachelors,2,10,21,No,1,1,4,3,0,104700.0,No
+ABC01168,56,Sales,Bachelors,2,14,19,Yes,3,1,3,22,1,112200.0,No
+ABC01169,59,Finance,Masters,1,5,25,Yes,4,2,4,12,3,106100.0,Yes
+ABC01170,55,IT,Masters,2,15,22,No,4,1,3,30,3,121400.0,No
+ABC01171,54,Finance,Bachelors,1,7,11,No,1,3,1,15,0,82900.0,No
+ABC01172,44,IT,Masters,4,15,33,Yes,1,2,3,40,3,156800.0,No
+ABC01173,42,IT,Bachelors,1,17,32,Yes,1,4,3,0,2,94900.0,Yes
+ABC01174,25,Sales,Bachelors,4,4,21,No,1,2,4,11,2,122400.0,No
+ABC01175,53,Sales,Bachelors,2,15,39,No,4,4,2,55,0,107700.0,No
+ABC01176,56,Customer Support,High School,4,10,20,No,3,4,1,49,1,112300.0,No
+ABC01177,40,Operations,Bachelors,3,6,8,Yes,3,2,1,19,1,103200.0,No
+ABC01178,39,Customer Support,High School,3,16,42,No,1,2,1,65,1,102200.0,No
+ABC01179,55,IT,Masters,2,16,37,No,2,4,2,35,2,129600.0,No
+ABC01180,37,Sales,High School,1,11,9,No,4,4,1,78,3,73000.0,No
+ABC01181,54,Sales,Masters,1,12,25,No,3,1,1,37,2,101000.0,No
+ABC01182,29,Sales,High School,4,8,25,No,1,2,2,21,3,121800.0,No
+ABC01183,46,Customer Support,PhD,4,6,33,No,2,2,1,60,2,142300.0,No
+ABC01184,22,Operations,Masters,2,1,2,No,2,1,4,49,1,86900.0,No
+ABC01185,29,Operations,High School,1,8,19,No,1,2,4,58,1,72200.0,No
+ABC01186,29,Operations,Masters,2,0,20,No,4,1,3,19,1,89500.0,No
+ABC01187,37,Sales,Bachelors,3,16,42,No,3,1,3,35,0,109000.0,No
+ABC01188,21,IT,Masters,2,0,41,No,2,2,3,14,0,91500.0,No
+ABC01189,45,Sales,Bachelors,3,20,42,Yes,3,3,4,61,3,130300.0,No
+ABC01190,45,Finance,Bachelors,5,4,29,No,3,4,4,2,0,128400.0,No
+ABC01191,59,Operations,Masters,1,19,6,Yes,2,2,4,4,2,115500.0,No
+ABC01192,55,Operations,Bachelors,2,23,17,No,1,3,3,55,2,134200.0,No
+ABC01193,23,IT,High School,2,2,25,Yes,2,1,3,30,3,95100.0,No
+ABC01194,57,Operations,Masters,2,24,38,No,2,3,3,34,3,131400.0,No
+ABC01195,50,Customer Support,Bachelors,1,6,4,No,4,2,3,70,1,70600.0,Yes
+ABC01196,58,IT,Bachelors,1,9,30,No,3,2,3,69,0,85100.0,No
+ABC01197,54,Sales,High School,4,16,20,No,1,3,3,25,1,130800.0,No
+ABC01198,32,IT,Bachelors,2,6,3,No,3,2,4,0,0,102600.0,No
+ABC01199,39,Sales,PhD,2,0,23,No,2,4,2,6,0,96700.0,No
+ABC01200,57,Sales,Bachelors,4,6,18,No,1,3,2,35,3,145700.0,No
+ABC01201,37,Customer Support,Bachelors,3,16,26,Yes,1,1,3,75,1,103500.0,No
+ABC01202,30,Finance,Masters,1,9,36,No,1,3,2,24,1,91100.0,No
+ABC01203,32,Customer Support,Masters,2,8,8,No,1,3,2,58,0,90600.0,Yes
+ABC01204,36,IT,Bachelors,2,11,17,Yes,4,3,4,60,0,104000.0,No
+ABC01205,44,IT,Bachelors,3,2,31,No,1,3,3,28,3,113700.0,Yes
+ABC01206,39,Sales,PhD,3,3,37,No,2,1,3,17,2,128300.0,No
+ABC01207,28,Operations,Masters,3,3,33,No,4,1,2,40,1,100300.0,No
+ABC01208,51,Finance,High School,2,24,27,No,2,1,3,18,1,121300.0,No
+ABC01209,41,Operations,High School,4,12,4,No,2,3,3,3,3,132900.0,No
+ABC01210,37,Finance,Bachelors,1,16,22,Yes,3,4,3,64,3,96500.0,No
+ABC01211,43,HR,Bachelors,1,18,26,Yes,1,4,3,40,1,80100.0,Yes
+ABC01212,57,Sales,Bachelors,2,9,32,No,1,1,2,14,1,99800.0,No
+ABC01213,36,IT,Masters,1,4,24,Yes,2,4,1,53,0,84800.0,Yes
+ABC01214,26,HR,High School,1,5,35,Yes,1,4,2,63,2,62400.0,Yes
+ABC01215,28,Operations,Masters,4,7,37,No,4,4,4,71,1,131000.0,No
+ABC01216,45,Finance,Bachelors,5,15,32,No,3,4,1,14,3,163300.0,No
+ABC01217,38,IT,Masters,2,0,7,No,1,4,1,78,0,98900.0,Yes
+ABC01218,45,Sales,Masters,1,11,33,No,1,2,1,49,0,89400.0,No
+ABC01219,32,IT,High School,1,1,31,No,4,1,2,21,3,76300.0,Yes
+ABC01220,35,Customer Support,Bachelors,1,6,12,No,3,3,4,17,3,79200.0,Yes
+ABC01221,46,Sales,High School,1,10,11,No,4,4,2,79,0,64100.0,No
+ABC01222,46,Finance,Masters,4,12,24,No,2,2,4,1,3,162900.0,No
+ABC01223,52,Sales,Masters,1,1,8,No,2,3,2,35,0,79400.0,Yes
+ABC01224,30,Finance,Bachelors,2,6,32,No,1,2,2,19,3,91500.0,No
+ABC01225,36,Finance,Bachelors,1,14,38,Yes,3,4,2,15,0,77800.0,Yes
+ABC01226,27,Operations,Bachelors,4,6,22,No,2,4,1,66,1,103300.0,No
+ABC01227,37,Operations,Masters,3,10,34,No,4,4,2,29,1,106700.0,No
+ABC01228,43,Finance,Bachelors,5,1,19,No,2,4,4,54,3,149100.0,No
+ABC01229,46,Operations,Bachelors,3,6,20,No,2,3,4,65,2,108900.0,No
+ABC01230,41,Finance,Bachelors,2,3,14,No,4,3,4,25,1,100600.0,No
+ABC01231,42,Sales,High School,1,10,33,Yes,1,2,1,56,0,73100.0,Yes
+ABC01232,27,Customer Support,Masters,3,1,10,Yes,3,1,2,68,2,106800.0,Yes
+ABC01233,34,HR,High School,2,13,16,No,1,4,2,1,0,86600.0,Yes
+ABC01234,35,Customer Support,Bachelors,2,6,4,No,4,2,3,55,0,82900.0,No
+ABC01235,27,Sales,Bachelors,1,6,27,Yes,2,2,1,61,1,66700.0,Yes
+ABC01236,29,IT,Bachelors,1,4,28,No,3,2,4,33,3,86800.0,No
+ABC01237,28,IT,Bachelors,2,7,43,Yes,1,4,4,55,3,109300.0,No
+ABC01238,43,Operations,PhD,2,20,16,No,4,4,2,54,0,116100.0,No
+ABC01239,49,Operations,Masters,3,11,33,Yes,2,2,4,19,1,123600.0,No
+ABC01240,38,Sales,Bachelors,1,17,19,No,2,4,2,49,0,79300.0,No
+ABC01241,51,Finance,Bachelors,2,6,21,No,1,2,2,24,2,107500.0,No
+ABC01242,50,IT,Masters,1,5,22,No,4,3,3,24,0,97800.0,No
+ABC01243,59,Sales,Bachelors,1,7,9,No,2,4,1,52,1,91400.0,No
+ABC01244,55,HR,High School,2,12,9,No,2,3,2,13,0,83400.0,No
+ABC01245,38,Operations,Masters,1,4,9,No,3,1,2,59,1,73300.0,No
+ABC01246,59,Sales,Masters,1,1,27,No,2,4,2,42,3,90200.0,No
+ABC01247,37,Customer Support,PhD,2,8,17,No,1,1,3,61,1,104800.0,Yes
+ABC01248,34,Customer Support,Masters,1,10,44,No,4,2,2,75,2,87400.0,Yes
+ABC01249,51,IT,Masters,1,23,8,No,4,4,1,68,1,113100.0,No
+ABC01250,44,Sales,High School,1,5,16,No,3,4,1,62,2,63800.0,Yes
+ABC01251,55,Finance,High School,1,6,18,Yes,4,4,4,1,2,90200.0,No
+ABC01252,54,IT,Bachelors,1,24,33,No,1,1,1,53,0,91400.0,Yes
+ABC01253,23,Operations,Bachelors,3,2,1,Yes,2,1,4,15,2,101600.0,No
+ABC01254,57,IT,Bachelors,1,18,12,Yes,3,2,1,54,1,95900.0,No
+ABC01255,46,IT,Bachelors,1,5,6,Yes,4,3,4,42,3,98700.0,No
+ABC01256,43,IT,Bachelors,2,10,41,Yes,3,3,2,60,1,109200.0,No
+ABC01257,59,Operations,Bachelors,3,10,5,Yes,3,1,3,37,3,105500.0,No
+ABC01258,35,IT,High School,4,6,16,No,4,4,3,44,2,121900.0,No
+ABC01259,24,Customer Support,Bachelors,3,1,18,Yes,3,3,3,50,0,87200.0,No
+ABC01260,49,Operations,Bachelors,3,18,18,No,4,3,2,41,2,106200.0,No
+ABC01261,42,HR,Masters,2,3,1,Yes,1,1,3,23,2,101100.0,No
+ABC01262,45,Customer Support,Bachelors,3,5,19,No,4,2,1,29,3,98800.0,No
+ABC01263,33,Operations,Bachelors,2,12,8,No,2,1,4,36,1,88100.0,Yes
+ABC01264,38,Operations,Masters,1,17,3,No,4,1,2,52,0,85900.0,No
+ABC01265,53,IT,Bachelors,1,4,25,No,2,4,3,62,0,78300.0,Yes
+ABC01266,36,IT,High School,1,6,5,No,3,1,1,10,0,64100.0,No
+ABC01267,22,Finance,Bachelors,4,1,40,No,4,4,1,77,0,108400.0,No
+ABC01268,55,IT,Bachelors,2,24,19,Yes,2,2,2,22,1,129200.0,No
+ABC01269,54,Customer Support,Masters,3,0,18,No,4,4,2,79,0,101700.0,Yes
+ABC01270,50,Sales,High School,2,0,31,No,4,2,3,49,3,92100.0,No
+ABC01271,33,Sales,Masters,2,12,33,No,4,2,4,54,3,109000.0,No
+ABC01272,33,IT,High School,1,5,18,No,1,2,3,54,0,71300.0,Yes
+ABC01273,38,Operations,Bachelors,1,17,39,No,2,1,3,3,0,94900.0,Yes
+ABC01274,52,Operations,Bachelors,4,9,16,No,1,4,2,53,1,112900.0,No
+ABC01275,52,Operations,Bachelors,3,10,16,No,1,3,3,60,1,101300.0,No
+ABC01276,55,Operations,Bachelors,2,0,38,No,2,1,3,77,0,89700.0,Yes
+ABC01277,59,Sales,Bachelors,4,0,41,Yes,4,2,4,4,1,124000.0,No
+ABC01278,49,Customer Support,Bachelors,1,12,7,No,1,3,1,17,2,75000.0,No
+ABC01279,49,Operations,Bachelors,5,4,14,No,1,1,1,43,0,118200.0,No
+ABC01280,36,Finance,Bachelors,2,15,43,Yes,1,3,4,30,1,108600.0,Yes
+ABC01281,30,Finance,Masters,2,0,25,Yes,4,2,1,20,3,98300.0,No
+ABC01282,50,Customer Support,Bachelors,2,19,32,No,1,3,3,46,0,102100.0,No
+ABC01283,45,Sales,Bachelors,1,2,38,No,3,3,4,29,0,66100.0,Yes
+ABC01284,59,Customer Support,High School,1,17,22,Yes,2,2,4,54,3,88100.0,No
+ABC01285,40,IT,Bachelors,3,8,16,No,3,3,2,67,3,117200.0,No
+ABC01286,25,IT,Masters,4,4,29,Yes,4,1,1,68,1,131700.0,Yes
+ABC01287,21,IT,Bachelors,3,0,16,No,1,3,2,40,3,98800.0,No
+ABC01288,50,Finance,Masters,1,22,12,No,2,4,3,44,2,117400.0,No
+ABC01289,23,Operations,Bachelors,2,2,17,No,1,1,4,73,0,93100.0,No
+ABC01290,34,Finance,Masters,1,3,37,No,4,3,3,79,2,82400.0,Yes
+ABC01291,50,IT,High School,1,4,27,No,2,4,1,29,1,67800.0,Yes
+ABC01292,24,Finance,Masters,3,3,25,No,3,4,2,76,3,116200.0,No
+ABC01293,38,Customer Support,Bachelors,2,16,13,Yes,2,4,1,44,0,71400.0,Yes
+ABC01294,57,Sales,Bachelors,1,21,8,No,1,3,3,44,3,97200.0,No
+ABC01295,45,Customer Support,Bachelors,1,24,5,No,2,2,2,78,3,99200.0,No
+ABC01296,21,Sales,Bachelors,5,0,12,No,4,4,1,44,1,117700.0,No
+ABC01297,35,Sales,PhD,1,14,41,No,4,2,3,54,1,113100.0,No
+ABC01298,29,Sales,Bachelors,2,8,3,Yes,2,1,1,58,1,84400.0,Yes
+ABC01299,35,Operations,High School,2,4,35,Yes,4,2,4,4,1,76300.0,No
+ABC01300,44,IT,Bachelors,1,3,33,Yes,4,2,2,31,0,72600.0,No
+ABC01301,24,Sales,Bachelors,1,3,22,No,4,2,2,5,2,66700.0,No
+ABC01302,32,Sales,Bachelors,2,5,44,No,3,2,2,25,2,81300.0,Yes
+ABC01303,57,Customer Support,Masters,3,19,9,No,1,2,4,36,0,130000.0,No
+ABC01304,57,Finance,Bachelors,2,20,41,No,4,1,2,12,3,116300.0,No
+ABC01305,26,Finance,Masters,3,5,18,No,2,1,4,68,0,108500.0,Yes
+ABC01306,59,Customer Support,Bachelors,5,21,29,No,4,2,2,24,2,151100.0,No
+ABC01307,44,HR,High School,3,4,39,Yes,3,2,1,12,2,96200.0,No
+ABC01308,31,Sales,Masters,2,10,27,No,2,4,1,19,0,96700.0,No
+ABC01309,33,Operations,Bachelors,2,12,36,Yes,1,1,1,71,1,91800.0,Yes
+ABC01310,54,HR,Bachelors,3,22,17,Yes,2,3,1,59,3,123600.0,No
+ABC01311,45,Operations,Bachelors,3,6,34,No,2,1,4,72,0,103600.0,No
+ABC01312,27,HR,Bachelors,2,6,3,No,2,3,3,20,2,99000.0,No
+ABC01313,24,Sales,Bachelors,3,0,5,No,2,4,3,60,1,103100.0,No
+ABC01314,28,Operations,Masters,1,7,14,No,4,2,1,78,3,73700.0,No
+ABC01315,40,IT,High School,2,19,3,No,1,4,3,25,2,104200.0,No
+ABC01316,49,IT,Bachelors,1,3,23,No,4,2,3,53,3,100000.0,No
+ABC01317,30,IT,Masters,1,9,39,No,3,1,2,41,1,95500.0,Yes
+ABC01318,54,HR,PhD,1,20,30,No,3,2,4,10,2,122100.0,Yes
+ABC01319,46,Sales,Bachelors,3,13,23,No,2,3,1,36,1,110100.0,No
+ABC01320,23,Sales,Bachelors,2,2,27,Yes,4,3,3,10,0,80200.0,Yes
+ABC01321,26,Customer Support,Bachelors,1,5,10,No,4,4,3,26,0,63700.0,Yes
+ABC01322,25,HR,PhD,2,4,25,No,1,1,1,33,3,102600.0,Yes
+ABC01323,25,Sales,Masters,2,4,13,No,1,3,2,37,1,91300.0,No
+ABC01324,43,Finance,Bachelors,1,19,16,No,1,4,1,60,1,89800.0,No
+ABC01325,29,Operations,Bachelors,3,7,41,No,4,1,2,52,3,105100.0,No
+ABC01326,55,IT,Bachelors,3,23,34,Yes,1,1,3,64,3,141200.0,No
+ABC01327,40,Sales,Masters,3,2,37,No,1,4,4,2,3,112800.0,Yes
+ABC01328,55,HR,Bachelors,3,24,22,No,1,3,2,66,0,134200.0,No
+ABC01329,38,HR,Masters,2,17,17,Yes,2,3,2,27,3,115400.0,No
+ABC01330,37,Sales,PhD,1,0,23,No,3,4,1,13,0,92800.0,Yes
+ABC01331,44,Customer Support,High School,1,1,36,No,3,3,3,51,3,52300.0,Yes
+ABC01332,23,Operations,Bachelors,1,2,9,Yes,4,4,4,29,1,56600.0,Yes
+ABC01333,52,Operations,Bachelors,5,21,2,No,4,3,1,57,1,152100.0,No
+ABC01334,55,Sales,Bachelors,1,9,32,No,2,3,1,53,3,85400.0,No
+ABC01335,58,Operations,High School,1,17,22,No,3,4,4,68,3,84900.0,No
+ABC01336,33,Sales,High School,4,12,43,No,1,4,3,14,0,122600.0,No
+ABC01337,45,IT,Masters,5,13,13,Yes,1,3,4,37,2,164900.0,No
+ABC01338,29,Finance,Masters,3,8,8,Yes,4,4,1,77,0,120000.0,No
+ABC01339,24,IT,Bachelors,1,3,1,No,3,3,1,13,1,70900.0,Yes
+ABC01340,34,Sales,Bachelors,1,0,17,No,4,2,2,56,3,64800.0,Yes
+ABC01341,57,Sales,Bachelors,2,4,12,No,4,1,4,58,1,92900.0,No
+ABC01342,54,Sales,Masters,1,12,4,No,1,1,4,7,2,111800.0,No
+ABC01343,31,Operations,Masters,1,10,13,No,1,3,4,71,0,82500.0,Yes
+ABC01344,23,Finance,Bachelors,2,2,31,No,3,1,1,18,1,87600.0,Yes
+ABC01345,48,Sales,Bachelors,5,23,41,Yes,4,3,3,31,0,164900.0,No
+ABC01346,49,HR,High School,2,2,7,Yes,2,4,1,28,3,80100.0,No
+ABC01347,29,Customer Support,High School,3,8,23,Yes,3,2,2,40,1,88000.0,Yes
+ABC01348,23,Operations,Bachelors,3,2,24,No,4,1,1,74,2,88400.0,No
+ABC01349,45,Finance,Masters,1,16,5,Yes,3,1,1,44,0,99300.0,No
+ABC01350,54,IT,Masters,3,2,5,No,3,4,1,12,0,125100.0,No
+ABC01351,32,IT,Bachelors,1,11,17,No,3,2,2,26,2,81400.0,No
+ABC01352,29,IT,Masters,1,8,30,No,2,2,4,18,1,97600.0,Yes
+ABC01353,35,Operations,PhD,3,11,9,No,2,2,3,25,1,130300.0,No
+ABC01354,45,Operations,Bachelors,1,11,6,No,1,4,3,52,0,66400.0,No
+ABC01355,25,Operations,Bachelors,5,4,25,No,1,1,2,50,2,121000.0,No
+ABC01356,31,Operations,PhD,1,10,19,No,4,1,4,36,0,92200.0,No
+ABC01357,54,IT,Bachelors,3,7,16,No,3,2,4,8,0,124200.0,No
+ABC01358,44,Sales,Masters,2,16,21,No,4,4,2,51,3,124000.0,No
+ABC01359,35,Customer Support,PhD,1,14,2,No,1,4,1,53,1,84500.0,No
+ABC01360,58,HR,Masters,1,24,10,No,2,4,4,2,1,118000.0,No
+ABC01361,28,Operations,Masters,3,7,16,No,1,2,3,68,3,119400.0,No
+ABC01362,25,Sales,Masters,4,4,37,No,4,4,2,7,1,125800.0,No
+ABC01363,46,Customer Support,Masters,4,10,15,No,1,2,3,13,1,133200.0,No
+ABC01364,38,Finance,Bachelors,2,17,13,No,4,2,1,2,1,110000.0,No
+ABC01365,26,HR,High School,3,5,13,No,4,2,2,23,2,98800.0,No
+ABC01366,57,Operations,Bachelors,3,1,32,No,4,3,3,12,3,98000.0,No
+ABC01367,33,Operations,Masters,3,9,8,No,4,2,3,42,0,110900.0,No
+ABC01368,48,Sales,High School,2,9,43,No,1,4,1,28,2,86200.0,No
+ABC01369,25,Sales,High School,3,4,18,No,4,3,2,71,0,82900.0,No
+ABC01370,33,Finance,High School,4,5,36,No,4,1,4,50,3,121200.0,No
+ABC01371,37,HR,Masters,2,3,26,Yes,3,1,4,41,3,104800.0,No
+ABC01372,52,IT,PhD,4,23,10,No,4,4,3,30,3,173900.0,No
+ABC01373,49,Customer Support,PhD,3,11,31,No,1,4,1,62,1,130400.0,No
+ABC01374,23,IT,Bachelors,1,2,33,Yes,4,4,3,25,2,75600.0,Yes
+ABC01375,54,Operations,Masters,1,22,29,No,2,4,1,17,3,112300.0,No
+ABC01376,47,Operations,Masters,2,22,5,No,2,3,4,56,0,114800.0,No
+ABC01377,33,Customer Support,Bachelors,2,12,13,No,4,4,3,6,1,86800.0,No
+ABC01378,53,Sales,Bachelors,4,12,1,No,2,2,3,47,1,127100.0,No
+ABC01379,26,Customer Support,High School,1,4,23,No,2,1,1,79,2,50400.0,Yes
+ABC01380,44,Finance,PhD,4,5,40,No,1,4,2,59,2,144400.0,No
+ABC01381,39,Sales,Bachelors,4,0,3,No,3,2,1,32,2,114800.0,No
+ABC01382,36,IT,Bachelors,1,5,3,Yes,2,4,2,2,1,86100.0,No
+ABC01383,48,Customer Support,Masters,4,17,7,No,2,2,4,3,3,152100.0,No
+ABC01384,53,IT,Bachelors,5,21,36,No,3,3,3,3,0,163100.0,No
+ABC01385,33,Customer Support,Bachelors,3,8,35,No,3,1,3,41,3,109900.0,No
+ABC01386,45,Customer Support,Bachelors,3,23,15,No,2,1,1,8,0,114400.0,No
+ABC01387,56,Operations,High School,5,24,40,No,4,3,1,50,3,152300.0,No
+ABC01388,47,Operations,Masters,3,14,3,No,2,2,4,16,2,128100.0,No
+ABC01389,58,Customer Support,Bachelors,2,7,29,No,4,4,4,16,0,96800.0,Yes
+ABC01390,27,HR,Bachelors,4,6,30,No,4,2,2,19,1,97900.0,No
+ABC01391,25,Sales,Bachelors,3,4,39,No,4,1,4,13,0,86500.0,No
+ABC01392,51,Sales,Bachelors,3,15,18,No,3,3,4,21,1,129500.0,No
+ABC01393,43,IT,Bachelors,1,5,11,Yes,2,3,4,51,3,91700.0,Yes
+ABC01394,30,Customer Support,Masters,3,5,43,No,2,2,4,26,2,117500.0,No
+ABC01395,52,Finance,Masters,1,21,38,Yes,1,2,2,42,0,104200.0,Yes
+ABC01396,50,HR,Masters,4,2,40,Yes,3,3,4,2,1,140400.0,No
+ABC01397,59,Sales,Masters,2,9,1,No,1,1,2,7,3,113700.0,Yes
+ABC01398,51,Operations,Bachelors,1,0,29,No,1,4,1,9,2,69500.0,Yes
+ABC01399,38,Customer Support,Bachelors,2,13,10,No,4,4,3,28,2,93800.0,No
+ABC01400,56,Sales,PhD,1,3,28,No,3,2,1,39,2,92500.0,No
+ABC01401,22,Operations,Bachelors,3,1,31,No,1,3,4,64,3,89400.0,Yes
+ABC01402,34,Sales,High School,4,5,19,No,2,3,3,20,3,121400.0,No
+ABC01403,33,HR,Bachelors,4,10,3,No,1,3,4,23,3,133300.0,No
+ABC01404,49,Customer Support,High School,1,11,36,No,3,1,4,72,2,77500.0,No
+ABC01405,32,Operations,Bachelors,1,9,43,No,2,2,1,59,0,59100.0,No
+ABC01406,59,IT,PhD,4,17,15,No,2,2,4,25,1,181600.0,No
+ABC01407,22,IT,Bachelors,4,1,33,No,2,2,1,8,3,119900.0,Yes
+ABC01408,52,Customer Support,Bachelors,2,6,41,Yes,4,1,4,19,0,93000.0,Yes
+ABC01409,33,Sales,PhD,2,10,43,Yes,2,2,2,55,1,113900.0,No
+ABC01410,47,IT,PhD,2,3,26,Yes,4,4,3,35,2,116700.0,No
+ABC01411,37,Operations,Bachelors,4,16,16,Yes,4,2,1,35,0,126800.0,No
+ABC01412,51,Customer Support,Bachelors,3,0,36,No,1,2,1,72,2,97500.0,No
+ABC01413,54,IT,Masters,1,12,33,Yes,1,2,3,21,1,105000.0,Yes
+ABC01414,44,Sales,Masters,1,17,20,Yes,2,1,1,0,3,104700.0,No
+ABC01415,55,IT,Masters,4,8,13,Yes,3,4,3,68,2,154500.0,No
+ABC01416,26,Finance,Masters,1,5,33,Yes,2,4,2,72,0,84800.0,Yes
+ABC01417,39,Sales,Masters,2,18,5,Yes,1,3,4,36,3,114000.0,No
+ABC01418,50,Customer Support,Bachelors,2,8,37,No,2,3,2,71,0,76700.0,No
+ABC01419,27,Sales,Masters,1,6,14,No,1,4,4,12,1,89700.0,No
+ABC01420,30,IT,Bachelors,1,8,27,Yes,2,2,3,42,1,79900.0,Yes
+ABC01421,52,Operations,Masters,4,9,23,No,3,2,2,36,3,132100.0,No
+ABC01422,54,HR,Bachelors,4,1,14,No,2,2,4,73,0,119600.0,No
+ABC01423,48,Operations,High School,4,5,40,Yes,3,1,3,24,0,101400.0,No
+ABC01424,35,Customer Support,Bachelors,4,14,4,No,3,2,4,20,0,120400.0,No
+ABC01425,50,Finance,Bachelors,2,2,39,No,2,1,1,40,0,92000.0,No
+ABC01426,57,IT,Bachelors,4,10,19,No,3,4,1,72,1,125500.0,No
+ABC01427,49,Finance,Bachelors,2,5,4,No,3,2,3,41,0,87000.0,No
+ABC01428,42,Finance,Bachelors,3,2,30,Yes,1,2,4,41,1,100300.0,No
+ABC01429,24,Sales,Masters,5,3,19,No,1,3,1,1,0,125100.0,No
+ABC01430,40,Operations,High School,1,10,31,No,3,4,2,67,0,64500.0,No
+ABC01431,52,Customer Support,Masters,2,14,31,No,4,2,4,7,2,110700.0,No
+ABC01432,56,Sales,Masters,2,12,9,Yes,2,1,4,60,2,128200.0,No
+ABC01433,24,Finance,Masters,1,3,13,No,3,4,1,13,0,78000.0,No
+ABC01434,47,Customer Support,Bachelors,1,9,14,No,2,3,1,76,1,71300.0,No
+ABC01435,37,Sales,PhD,4,5,10,No,1,4,3,20,0,146200.0,No
+ABC01436,32,HR,Bachelors,5,11,31,Yes,2,1,4,23,2,135800.0,No
+ABC01437,42,Operations,High School,2,21,37,No,3,3,2,49,0,98000.0,No
+ABC01438,37,IT,Bachelors,1,16,23,No,3,1,1,44,2,92400.0,No
+ABC01439,30,Sales,High School,1,9,27,No,3,4,4,63,0,66100.0,No
+ABC01440,21,Sales,PhD,4,0,6,No,3,3,1,63,3,135500.0,No
+ABC01441,42,HR,Bachelors,2,14,26,No,4,1,3,25,0,94400.0,No
+ABC01442,46,Finance,Masters,2,17,2,No,4,4,4,31,1,125300.0,No
+ABC01443,38,Finance,Masters,2,17,13,No,4,1,4,56,2,124200.0,No
+ABC01444,34,IT,Bachelors,2,13,19,No,3,2,3,52,3,114100.0,No
+ABC01445,49,Sales,Bachelors,2,8,1,No,4,4,2,32,2,94300.0,No
+ABC01446,32,HR,High School,4,11,40,Yes,2,3,1,51,2,118900.0,No
+ABC01447,56,Operations,Bachelors,3,1,32,No,3,3,3,17,1,89200.0,Yes
+ABC01448,55,Customer Support,High School,3,7,22,No,1,2,4,34,0,101700.0,No
+ABC01449,32,Finance,Masters,2,11,29,No,3,1,3,11,1,99000.0,No
+ABC01450,27,HR,PhD,3,1,2,No,2,1,4,50,0,111800.0,No
+ABC01451,49,Customer Support,Bachelors,3,10,40,No,4,3,3,9,3,117300.0,No
+ABC01452,31,Sales,Bachelors,1,6,38,No,3,1,2,51,1,59400.0,Yes
+ABC01453,53,Finance,Masters,2,5,11,Yes,4,4,4,33,1,112900.0,Yes
+ABC01454,26,Operations,Bachelors,1,5,17,No,3,4,3,66,2,62100.0,No
+ABC01455,35,Customer Support,Masters,4,4,43,Yes,2,3,2,38,1,113500.0,Yes
+ABC01456,52,Operations,Bachelors,2,10,8,No,3,4,2,7,0,84500.0,Yes
+ABC01457,31,HR,Bachelors,5,0,22,No,4,3,1,28,1,111700.0,No
+ABC01458,43,Customer Support,Masters,1,1,4,No,4,1,4,21,1,67700.0,Yes
+ABC01459,46,Sales,Bachelors,3,23,11,No,2,1,1,69,3,142300.0,No
+ABC01460,54,Operations,Masters,3,0,8,Yes,3,1,2,60,0,103100.0,No
+ABC01461,54,Finance,Masters,3,18,9,Yes,1,2,1,42,2,130900.0,No
+ABC01462,49,Operations,Bachelors,2,1,26,No,3,3,1,48,0,73000.0,Yes
+ABC01463,24,Operations,High School,2,3,2,No,2,4,3,28,3,77500.0,No
+ABC01464,37,Sales,PhD,3,16,16,Yes,1,1,1,30,0,129500.0,No
+ABC01465,55,Sales,Masters,1,22,31,No,2,2,2,52,0,97300.0,No
+ABC01466,33,Customer Support,High School,1,12,6,No,3,4,1,33,1,57400.0,No
+ABC01467,59,IT,Masters,2,23,21,No,1,4,4,37,1,145400.0,No
+ABC01468,35,Sales,Bachelors,2,3,26,No,2,4,3,56,0,75200.0,No
+ABC01469,49,Operations,Bachelors,1,11,19,No,4,1,2,3,0,63900.0,No
+ABC01470,49,Operations,Masters,1,21,28,No,1,4,1,1,2,99100.0,No
+ABC01471,31,Sales,Bachelors,1,10,8,No,1,3,4,11,3,75700.0,No
+ABC01472,52,Operations,PhD,3,17,14,Yes,2,2,2,34,1,133500.0,No
+ABC01473,22,Operations,Bachelors,3,0,24,No,4,4,1,69,1,77600.0,No
+ABC01474,34,Operations,Bachelors,4,0,44,No,1,4,3,71,1,101200.0,No
+ABC01475,40,Finance,Bachelors,5,19,37,No,2,3,1,20,1,152700.0,No
+ABC01476,42,Operations,Bachelors,2,13,26,No,1,4,2,60,0,92700.0,No
+ABC01477,31,IT,Masters,1,3,31,Yes,1,1,2,34,0,78100.0,Yes
+ABC01478,47,IT,Bachelors,1,4,32,Yes,1,1,2,47,2,84300.0,No
+ABC01479,23,IT,Bachelors,1,2,41,No,4,1,4,14,1,72200.0,Yes
+ABC01480,37,HR,Bachelors,5,16,2,No,3,4,1,70,1,143200.0,No
+ABC01481,48,IT,High School,2,22,25,No,3,2,1,14,0,96400.0,Yes
+ABC01482,49,Customer Support,Masters,1,12,44,No,4,2,1,5,2,89600.0,No
+ABC01483,41,HR,Bachelors,2,15,2,No,4,4,3,67,0,99200.0,No
+ABC01484,36,IT,Bachelors,3,15,42,No,2,2,4,21,1,140800.0,No
+ABC01485,57,Finance,Bachelors,3,12,1,No,1,2,4,31,1,116000.0,No
+ABC01486,40,IT,Bachelors,1,19,36,No,4,4,3,21,3,122200.0,No
+ABC01487,26,Operations,High School,5,5,12,No,2,1,4,26,3,132300.0,No
+ABC01488,39,Sales,Bachelors,2,1,9,No,3,4,3,14,3,102400.0,No
+ABC01489,25,Sales,Bachelors,1,4,36,Yes,3,1,2,43,2,75700.0,No
+ABC01490,23,Customer Support,Masters,4,2,41,No,3,1,2,8,0,104600.0,No
+ABC01491,21,HR,Masters,1,0,28,Yes,3,2,4,33,1,78200.0,No
+ABC01492,58,Customer Support,Bachelors,4,0,38,No,2,2,2,72,1,107400.0,No
+ABC01493,35,IT,High School,5,14,33,Yes,1,1,2,14,2,144800.0,No
+ABC01494,54,IT,Bachelors,3,10,42,No,2,1,2,61,1,114200.0,No
+ABC01495,55,Sales,Bachelors,3,18,22,No,1,2,1,44,1,116500.0,No
+ABC01496,45,HR,High School,2,2,25,No,3,3,2,71,0,78300.0,No
+ABC01497,44,IT,Bachelors,5,10,18,Yes,4,1,1,57,3,154300.0,No
+ABC01498,32,Customer Support,Bachelors,2,4,6,Yes,4,1,3,18,3,93000.0,No
+ABC01499,38,Operations,Bachelors,3,16,18,No,4,1,3,15,2,108700.0,No
+ABC01500,35,IT,High School,4,14,16,Yes,1,2,3,74,3,124600.0,No
